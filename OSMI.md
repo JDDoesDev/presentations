@@ -179,7 +179,7 @@ Note:  By the time you get to a point where you think you're done and your Trell
 
 <!--s-->
 
-# FORTUNATELY, YOU DON'T HAVE TO RELY ON MY THEORIES... THERE'S RESEARCH!
+## FORTUNATELY, YOU DON'T HAVE TO RELY ON MY THEORIES... THERE'S RESEARCH!
 
 <!--s-->
 
