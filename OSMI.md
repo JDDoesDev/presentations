@@ -177,7 +177,7 @@ We have job security, but there are always bugs, feature requests, or any number
 
 Note:  By the time you get to a point where you think you're done and your Trello board is empty, it's time for a reskin or rebuild.
 
-<!--s-->:
+<!--s-->
 
 # FORTUNATELY, YOU DON'T HAVE TO RELY ON MY THEORIES... THERE'S RESEARCH!
 
