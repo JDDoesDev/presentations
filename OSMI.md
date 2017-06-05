@@ -2,7 +2,7 @@
 title: Erasing the Stigma
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: League
+theme: league
 ---
 
 # ERASING THE STIGMA
