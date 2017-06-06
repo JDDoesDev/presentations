@@ -2,7 +2,7 @@
 title: Erasing the Stigma
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: league
+theme: osmi
 ---
 
 # ERASING THE STIGMA
@@ -74,6 +74,13 @@ Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
 
 <!--s-->
 
+## WHY SHOULD THIS BE IMPORTANT TO YOU?
+
+“In all regions, neuropsychiatric conditions are the most important causes of disability, accounting for around one third of Years Lost to Disability among adults aged 15 years and over”
+(W.H.O. 2008)
+
+<!--s-->
+
 ## WHY IS THIS IMPORTANT TO ME?
 
 I have mental illness
@@ -121,7 +128,7 @@ I open the conversation
 
 Note:  Mention not being shy about talking about it.
 People don't need to know the details of your PTSD, but that you're not afraid to mention it in social situations.
-If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
+If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.  For outlets, mention music and being active in the community.
 
 <!--s-->
 
@@ -179,25 +186,76 @@ Note:  By the time you get to a point where you think you're done and your Trell
 
 <!--s-->
 
+## SEVERE LACK OF RESEARCH
+
+Note:  Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  
+
+<!--s-->
+
 ## FORTUNATELY, YOU DON'T HAVE TO RELY ON MY THEORIES... THERE'S RESEARCH!
 
 <!--s-->
 
-<!-- .slide: data-background="./osmi_logo.png" data-background-size="contain" -->
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
 Note:  Here's a great place to talk about OSMI, what they (we) do, and some of the research done through surveys.
 
 <!--s-->
 
+## OSMI: OPEN SOURCING MENTAL ILLNESS
+
+- Opening the conversation <!-- .element: class="fragment" data-fragment-index="1" -->
+- Providing resources <!-- .element: class="fragment" data-fragment-index="2" -->
+- Erasing the stigma <!-- .element: class="fragment" data-fragment-index="3" -->
+  - TITLE TIE IN!!! <!-- .element: class="fragment" data-fragment-index="3" -->
 
 <!--s-->
 
+## Mental Health in Tech 2016 Survey Results
+
+As of 11/16/2016, US Residents, Non-self-employed
+
+[osmihelp.org/research](osmihelp.org/research)
 
 <!--s-->
 
+<!-- .slide: class="chartSlide" -->
+Do you think discussing a health issue with your employer would have negative consequences?
+
+<img class="chart" data-src="./img/employer_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+Note: Over 5x more think that there would _definitely_ be negative consequences
 
 <!--s-->
 
+<!-- .slide: class="chartSlide" -->
+Would you bring up a health issue with a potential employer at an interview?
+
+<img class="chart" data-src="./img/interview_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+Note: Almost twice as many say "NO"
+<!--s-->
+
+<!-- .slide: class="chartSlide" -->
+Does your employer provide resources to learn more about mental health issues and how to seek help?
+
+<img class="chart" data-src="./img/resources_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+Note: Only 30% can say with any certainty that they know there are resources, but the highest percentage says no.
+
+<!--s-->
+
+<!-- .slide: class="chartSlide" -->
+Do you feel that being identified as a person with a mental health issue would hurt your career?
+
+<img class="chart" data-src="./img/identified_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+<!--s-->
+
+<!-- .slide: class="chartSlide" -->
+Have you been diagnosed with a mental health condition?
+
+<img class="chart" data-src="./img/diagnosed_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 <!--s-->
 
