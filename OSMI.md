@@ -192,7 +192,7 @@ Note:  Although it was suspected that there was a higher incidence of mental ill
 
 <!--s-->
 
-## FORTUNATELY, YOU DON'T HAVE TO RELY ON MY THEORIES... THERE'S RESEARCH!
+## FORTUNATELY, we don't have to rely on speculation anymore... The research has been done!
 
 <!--s-->
 
