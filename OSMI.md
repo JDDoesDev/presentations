@@ -55,6 +55,50 @@ Note:  This is where you ask about
 
 <!--s-->
 
+# How many of you are developers?
+
+Note: Or themers, or site builders, or anything directly related to the tech
+
+<!--s-->
+
+# How many of you are project managers?
+
+Note: or account managers or similar
+
+<!--s-->
+
+# How many of you are in HR?
+
+<!--s-->
+
+# How many of you are in upper management?
+
+Note: Managers, Presidents, CEOs, etc.
+
+<!--s-->
+
+# Who here has taken a sick day?
+
+<!--s-->
+
+## Who has been afraid to call off for
+
+- Bronchitis? <!-- .element: class="fragment" -->
+- Strep throat? <!-- .element: class="fragment" -->
+- The Flu? <!-- .element: class="fragment" -->
+
+<!--s-->
+
+## Who thinks it would be alright to tell someone with diabetes, high blood pressure, or a heart condition they don't need medicine?
+
+<!--s-->
+
+# Who would tell someone with a broken bone to get over it?
+
+Note:  Mention this is what people with mental illness have to deal with a lot of the time
+
+<!--s-->
+
 ## WHY TALK ABOUT THIS?
 
 Paramedic for 10 years, EMT before that
@@ -69,7 +113,7 @@ Note:  Consider anecdotes from the ambulance, but nothing too drastic or depress
 
 ## WHY TALK ABOUT THIS? (cont.)
 
-Burden of mental disorders IS the largest of all disorder categories in North America - WHO 2008
+Burden of mental disorders is the largest of all disorder categories in North America - WHO 2008
 <!-- .element: class="fragment"  -->
 
 **IT NEEDS TO BE TALKED ABOUT**
@@ -84,7 +128,7 @@ Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
 “In all regions, neuropsychiatric conditions are the most important causes of disability, accounting for around one third of Years Lost to Disability among adults aged 15 years and over”
 (W.H.O. 2008)
 
-Note: @Todo Note
+Note: YLDs are calculated by multiplying the prevalence of a disorder by the short- or long-term loss of health associated with that disability
 <!--s-->
 
 ## WHY IS THIS IMPORTANT TO ME?
@@ -98,8 +142,10 @@ People feel like they're walking on eggshells around me
 *I'm not defective; I have a disease*
 <!-- .element: class="fragment" -->
 
-Note: This may be a time to mention difficulties at past job
-@TODO look into a better time
+Note:
+- This may be a time to mention difficulties at past job
+-
+
 
 <!--s-->
 
@@ -477,12 +523,16 @@ Note: So what does that mean?
 
 <!--s-->
 
+# We are stronger than fear
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
 <!--s-->
 
+# Thank you for listening
 
 <!--s-->
 
+# Questions?
 
 <!--s-->
 
