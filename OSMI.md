@@ -22,6 +22,7 @@ Note:
 - Name
 - Drupal/PHP Developer for 4 years
 - Building sites since 90s
+- Paramedic for 10 years
 
 
 <!--s-->
@@ -29,15 +30,19 @@ Note:
 # ABOUT THIS SESSION
 
 - Open up the conversation about mental illness
-<!-- .element: class="fragment" data-fragment-index="1" -->
+<!-- .element: class="fragment" -->
 
 - Share some resources
-<!-- .element: class="fragment" data-fragment-index="2" -->
+<!-- .element: class="fragment" -->
+
+- Share some experiences
+<!-- .element: class="fragment" -->
 
 - Try out public speaking
-<!-- .element: class="fragment" data-fragment-index="3" -->
+<!-- .element: class="fragment" -->
 
 Note:  This should be focused on why you're doing this talk, not why you're talking about it
+Also, take a first-time selfie
 
 <!--s-->
 
@@ -55,7 +60,7 @@ Note:  This is where you ask about
 Paramedic for 10 years, EMT before that
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Seen firsthand what depression can do
+Seen firsthand what untreated mental illness can do
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.  
@@ -79,6 +84,7 @@ Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
 “In all regions, neuropsychiatric conditions are the most important causes of disability, accounting for around one third of Years Lost to Disability among adults aged 15 years and over”
 (W.H.O. 2008)
 
+Note: @Todo Note
 <!--s-->
 
 ## WHY IS THIS IMPORTANT TO ME?
@@ -110,6 +116,30 @@ Note: This may be a time to mention difficulties at past job
 
 <!--s-->
 
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+
+Difficult<!-- .element: class="fragment" -->
+
+Deep, deep valleys<!-- .element: class="fragment" -->
+
+Complete inability to focus<!-- .element: class="fragment" -->
+
+Note:  
+- Mention crippling fear of everyday things
+- constantly in fear of losing my job because of reduced output due to depression
+- spent a lot of time trying to figure out what was wrong with me
+
+<!--s-->
+
+## But it wasn't all bad
+
+Occasional hyperfocusing <!-- .element: class="fragment" -->
+
+Note: Although the hyperfocusing would sometimes be on useless stuff like WoW or reading meme threads until the end
+
+
+<!--s-->
+
 ## HOW DO I COPE?
 
 I take medication
@@ -130,19 +160,21 @@ If other people are uncomfortable about it, that's their problem.  Mention somet
 
 <!--s-->
 
-## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+## How has treatment affected me?
 
-Note:  
-- Mention crippling fear of everyday things
-- constantly in fear of losing my job because of reduced output due to depression
-- spent a lot of time trying to figure out what was wrong with me
-- having issues feeling like a good parent because I wasn't always "there"
+The valleys aren't as deep<!-- .element: class="fragment" -->
+
+I'm not ashamed of who I am<!-- .element: class="fragment" -->
+
+My anxiety has gone down, but still rears its ugly head occasionally<!-- .element: class="fragment" -->
+
+Note: Since getting on medication and seeing a therapist, I've become more comfortable in social situations, although still introverted, and I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing something that other people find normal
 
 <!--s-->
 
 # WHAT IS MENTAL ILLNESS?
 
-Note: So I've been going on for a while about hot mental illness has affected me, but what is mental illness?
+Note: So I've been going on for a while about how mental illness has affected me, but what is mental illness?
 
 <!--s-->
 
@@ -166,12 +198,15 @@ Cover each of these a bit more on the next slides
 
 The feeling that you're not good enough to be doing what you're doing
 
+Note: Without raising hands or anything, how many of you deal with imposter syndrome?
+
 <!--s-->
 
 ## ISOLATION
 
 We're often put on projects by ourselves, work remotely, or have issues relating to other coworkers
 
+Note: Developers, at least the ones I've dealt with, are a certain kind of people.  Sometimes we don't always relate to others the way that we see them relating to each other
 <!--s-->
 
 ## PERFECTIONISTS
@@ -184,13 +219,13 @@ Usually, we don't like to put out crap code. We prefer things to be perfect, but
 
 We have job security, but there are always bugs, feature requests, or any number of issues that keep projects from ever being complete.
 
-Note:  By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.
+Note:  By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.  For those of us who are completionists, this can be really stressful
 
 <!--s-->
 
 ## SEVERE LACK OF RESEARCH
 
-Note:  Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  Sites like devpression.com
+Note:  Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  Sites like devpression.com and word of mouth were all there were to go on
 
 <!--s-->
 
@@ -245,6 +280,8 @@ Do you feel that being identified as a person with a mental health issue would h
 
 <img class="chart" data-src="./img/identified_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
+Note:  Only 12% say "no".  That speaks volumes to me.
+
 <!--s-->
 
 <!-- .slide: class="chartSlide" id="surveySlides" -->
@@ -265,6 +302,10 @@ Have you been diagnosed with a mental health condition?
 
 <img class="chart" data-src="./img/diagnosed_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
+Note:  
+- This is self reported
+- Average is 20%
+- 1500 responses
 
 
 <!--s-->
@@ -329,16 +370,22 @@ Note: If someone trusts you enough to talk about their mental health, listen.
 
 <!--s-->
 
+# Let people know they matter
+
+Note: As someone with a disability, hearing an affirmation can do amazing things
+
+<!--s-->
+
 # Don't be ashamed
 
 Note: If you have a mental illness, you're not damaged; you have a disease
 
 <!--s-->
 
-# Don't trivialize
+# Be respectful
 
-Note: this one is really important to me.  if you get distracted, it's not ADD.  if you like to stay organized, it's not OCD.  mental illnesses are diseases.
-Don't tell someone to smile when they're upset or that the only medication they need is some time outside.  Mental illnesses can kill if left untreated
+Note: You can't always tell who has a disability.  Try to be respectful of what you say or how you portray diseases.
+
 If you do feel that you have a disease, get treatment!
 
 <!--s-->
@@ -360,6 +407,8 @@ Note:  Possible anecdote about recent situation at old job.
 
 ## We're afraid coworkers will change their opinion of us
 
+Note: Especially as someone with anxiety, worrying what people think can drive you mad
+
 <!--s-->
 
 ## We're afraid we might get sent to the ~~principal's&nbsp;office~~ HR Department
@@ -368,10 +417,63 @@ Note: Mention how it took you a lot to build up the courage to tell your bosses 
 
 <!--s-->
 
-##
+## Why should a workplace care?
 
 <!--s-->
 
+## Ignorance kills productivity
+
+## Reduced productivity kills the bottom line
+
+Note:
+- This goes both ways.  
+- Before treatment I would have stretches where I didn't accomplish anything
+- That would lead to anxiety about not getting anything done
+- Job insecurity
+- Management didn't know how to handle
+- HR didn't want to hear
+
+<!--s-->
+
+# Fight ignorance with information
+
+Note: mention the exit interview and sending a link to OSMI
+
+<!--s-->
+
+## Get the OSMI handbooks
+
+# http://bit.ly/osmi-books <!-- .element: class="fragment" data-fragment-index="1" -->
+
+<!--s-->
+
+## The tech community is our greatest resource
+
+Note:
+Time to bring it home --
+Especially in open source communities
+
+<!--s-->
+
+## *__50%__* of survey respondents claimed mental illness diagnoses
+
+Note: So what does that mean?
+
+<!--s-->
+
+# We are not alone
+
+<!--s-->
+
+# We are more than usernames
+
+<!--s-->
+
+# We are real people
+
+<!--s-->
+
+# We are not damaged
 
 <!--s-->
 
