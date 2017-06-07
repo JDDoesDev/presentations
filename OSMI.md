@@ -89,7 +89,7 @@ I have mental illness
 People feel like they're walking on eggshells around me
 <!-- .element: class="fragment" -->
 
-*I'm not delicate; I have a disease*
+*I'm not defective; I have a disease*
 <!-- .element: class="fragment" -->
 
 Note: This may be a time to mention difficulties at past job
@@ -107,8 +107,6 @@ Note: This may be a time to mention difficulties at past job
 
 - PTSD
 <!-- .element: class="fragment" -->
-
-Note: Mention something about
 
 <!--s-->
 
@@ -134,7 +132,11 @@ If other people are uncomfortable about it, that's their problem.  Mention somet
 
 ## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
 
-Note:  Mention crippling fear of everyday things, constantly in fear of losing my job because of reduced output due to depression, having issues feeling like a good parent because I wasn't always "there"
+Note:  
+- Mention crippling fear of everyday things
+- constantly in fear of losing my job because of reduced output due to depression
+- spent a lot of time trying to figure out what was wrong with me
+- having issues feeling like a good parent because I wasn't always "there"
 
 <!--s-->
 
@@ -182,17 +184,19 @@ Usually, we don't like to put out crap code. We prefer things to be perfect, but
 
 We have job security, but there are always bugs, feature requests, or any number of issues that keep projects from ever being complete.
 
-Note:  By the time you get to a point where you think you're done and your Trello board is empty, it's time for a reskin or rebuild.
+Note:  By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.
 
 <!--s-->
 
 ## SEVERE LACK OF RESEARCH
 
-Note:  Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  
+Note:  Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  Sites like devpression.com
 
 <!--s-->
 
 ## FORTUNATELY, we don't have to rely on speculation anymore... The research has been done!
+
+Note: And is still being done
 
 <!--s-->
 
@@ -220,15 +224,6 @@ As of 11/16/2016, US Residents, Non-self-employed
 <!--s-->
 
 <!-- .slide: class="chartSlide" -->
-Do you think discussing a health issue with your employer would have negative consequences?
-
-<img class="chart" data-src="./img/employer_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
-
-Note: Over 5x more think that there would _definitely_ be negative consequences
-
-<!--s-->
-
-<!-- .slide: class="chartSlide" -->
 Would you bring up a health issue with a potential employer at an interview?
 
 <img class="chart" data-src="./img/interview_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
@@ -252,10 +247,131 @@ Do you feel that being identified as a person with a mental health issue would h
 
 <!--s-->
 
+<!-- .slide: class="chartSlide" id="surveySlides" -->
+Do you think discussing a health issue with your employer would have negative consequences?
+
+<img class="chart" data-src="./img/employer_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+Note: Over 5x more think that there would _definitely_ be negative consequences
+
+<!--v-->
+
+[back](#/backSlide)
+
+<!--s-->
+
 <!-- .slide: class="chartSlide" -->
 Have you been diagnosed with a mental health condition?
 
 <img class="chart" data-src="./img/diagnosed_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+
+
+<!--s-->
+
+## What's the recurring theme here?
+
+# we're afraid to talk about it
+<!-- .element: class="fragment" -->
+
+<!--s-->
+
+<img class="chart" data-src="./img/y_tho.jpg" border="none">
+
+Note: what would a deck be without a meme?
+
+<!--s-->
+
+## Why are we afraid?  It's because of the stigma.
+
+<!--s-->
+
+## What if people with physical health problems were treated the way people with mental health problems were treated?
+
+<!--v-->
+
+<img class="chart" data-src="./img/wheelchair.gif" border="none">
+
+<!--v-->
+
+<img class="chart" data-src="./img/cut.gif" border="none">
+
+<!--v-->
+
+<img class="chart" data-src="./img/sprain.gif" border="none">
+
+<!--v-->
+
+Source:  ATTN: https://www.youtube.com/watch?v=Bor9xVnbIz8
+
+<!--s-->
+
+## So how do we Erase the Stigma?
+
+<!--s-->
+
+## We need to be...
+
+<!--s-->
+
+# __STRONGER THAN FEAR__
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
+
+<!--s-->
+
+# Open the conversation
+
+<!--s-->
+
+# Listen
+
+Note: If someone trusts you enough to talk about their mental health, listen.  
+
+<!--s-->
+
+# Don't be ashamed
+
+Note: If you have a mental illness, you're not damaged; you have a disease
+
+<!--s-->
+
+# Don't trivialize
+
+Note: this one is really important to me.  if you get distracted, it's not ADD.  if you like to stay organized, it's not OCD.  mental illnesses are diseases.
+Don't tell someone to smile when they're upset or that the only medication they need is some time outside.  Mental illnesses can kill if left untreated
+If you do feel that you have a disease, get treatment!
+
+<!--s-->
+
+## This is all good for personal relationships, but what about the workplace?
+
+Remember when we talked about it [here](#/surveySlides)?
+
+<!--s-->
+
+<!-- .slide: id="backSlide" -->
+## We're afraid that being honest will have negative consequences
+
+For many of us, this means suffering in silence
+
+Note:  Possible anecdote about recent situation at old job.
+
+<!--s-->
+
+## We're afraid coworkers will change their opinion of us
+
+<!--s-->
+
+## We're afraid we might get sent to the ~~principal's&nbsp;office~~ HR Department
+
+Note: Mention how it took you a lot to build up the courage to tell your bosses about your illness only to get a call from HR.  From people you deal with every day to someone who might as well be a stranger.
+
+<!--s-->
+
+##
+
+<!--s-->
+
 
 <!--s-->
 
