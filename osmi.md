@@ -48,10 +48,10 @@ Also, take a first-time selfie
 
 ## WHY TALK ABOUT THIS?
 
-Paramedic for 10 years, EMT before that
+- Paramedic for 10 years, EMT before that
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Seen firsthand what untreated mental illness can do
+- I've seen firsthand what untreated mental illness can do
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.  
@@ -60,10 +60,10 @@ Note:  Consider anecdotes from the ambulance, but nothing too drastic or depress
 
 ## WHY TALK ABOUT THIS? (cont.)
 
-Burden of mental disorders is the largest of all disorder categories in North America - WHO 2008
+- Burden of mental disorders is the largest of all disorder categories in North America - WHO 2008
 <!-- .element: class="fragment"  -->
 
-**IT NEEDS TO BE TALKED ABOUT**
+- **IT NEEDS TO BE TALKED ABOUT**
 <!-- .element: class="fragment important"  -->
 
 Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
@@ -113,11 +113,19 @@ Note: Managers, Presidents, CEOs, etc.
 
 <!--s-->
 
+## Who thinks it would be alright to tell someone with glasses or contacts to try harder?
+
+<!--s-->
+
+## Who thinks it would be alright to tell someone in a wheelchair that they should just get over it and walk?
+
+<!--s-->
+
 ## Who thinks it would be alright to tell someone with diabetes, high blood pressure, or a heart condition they don't need medicine?
 
 <!--s-->
 
-## Who would tell someone with a broken bone to get over it?
+## Who would tell someone with a broken bone that a lot of people have it much worse?
 
 Note:  Mention this is what people with mental illness have to deal with a lot of the time
 
@@ -141,18 +149,18 @@ Note: YLDs are calculated by multiplying the prevalence of a disorder by the sho
 
 ## WHY IS THIS IMPORTANT TO ME?
 
-I have mental illness
+- I have mental illness
 <!-- .element: class="fragment" -->
 
-People feel like they're walking on eggshells around me
+- When I tell people, the treat me differently
 <!-- .element: class="fragment" -->
 
-*I'm not defective; I have a disease*
+- *I'm not defective; I have a disease*
 <!-- .element: class="fragment" -->
 
 Note:
 - This may be a time to mention difficulties at past job
--
+- Definitely focus on it not being a personality quirk, but illness
 
 <!--s-->
 
@@ -167,15 +175,37 @@ Note:
 - PTSD
 <!-- .element: class="fragment" -->
 
+Note:  You don't have to go into too much detail.
+
+<!--s-->
+
+## Major Depression
+
+Clinical depression is marked by a depressed mood most of the day, sometimes particularly in the morning, and a loss of interest in normal activities and relationships -- symptoms that are present every day for at least 2 weeks - WebMD
+
+<!--s-->
+
+## Anxiety Disorder
+
+A mental health disorder characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with one's daily activities - Mayo Clinic
+
+<!--s-->
+
+## PTSD
+
+A disorder characterized by failure to recover after experiencing or witnessing a terrifying event - Mayo Clinic
+
+Note: Consider mentioning some of the ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+
 <!--s-->
 
 ## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
 
-Difficult<!-- .element: class="fragment" -->
+- Difficult<!-- .element: class="fragment" -->
 
-Deep, deep valleys<!-- .element: class="fragment" -->
+- Deep, deep valleys<!-- .element: class="fragment" -->
 
-Complete inability to focus<!-- .element: class="fragment" -->
+- Complete inability to focus<!-- .element: class="fragment" -->
 
 Note:  
 - Mention crippling fear of everyday things
@@ -195,16 +225,16 @@ Note: Although the hyperfocusing would sometimes be on useless stuff like WoW or
 
 ## HOW DO I COPE?
 
-I take medication
+- I take medication
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
-I see a therapist
+- I see a therapist
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-I find outlets
+- I find outlets
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
-I open the conversation
+- I open the conversation
 <!-- .element: class="fragment" data-fragment-index="4" -->
 
 Note:  Mention not being shy about talking about it.
@@ -215,11 +245,11 @@ If other people are uncomfortable about it, that's their problem.  Mention somet
 
 ## How has treatment affected me?
 
-The valleys aren't as deep<!-- .element: class="fragment" -->
+- The valleys aren't as deep<!-- .element: class="fragment" -->
 
-I'm not ashamed of who I am<!-- .element: class="fragment" -->
+- I'm not ashamed of who I am<!-- .element: class="fragment" -->
 
-My anxiety has gone down, but still rears its ugly head occasionally<!-- .element: class="fragment" -->
+- My anxiety has gone down, but still rears its ugly head occasionally<!-- .element: class="fragment" -->
 
 Note: Since getting on medication and seeing a therapist, I've become more comfortable in social situations, although still introverted, and I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing something that other people find normal
 
@@ -365,7 +395,7 @@ Note:
 
 ## What's the recurring theme here?
 
-# we're afraid to talk about it
+# We're afraid to talk about it
 <!-- .element: class="fragment" -->
 
 <!--s-->
@@ -540,11 +570,5 @@ Note: So what does that mean?
 <!--s-->
 
 # Questions?
-
-<!--s-->
-
-
-<!--s-->
-
 
 <!--s-->
