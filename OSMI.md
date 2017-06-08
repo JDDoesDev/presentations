@@ -21,7 +21,7 @@ Twin Cities Drupal Camp • #tcdrupal • #osmi
 Note:
 - Name
 - Drupal/PHP Developer for 4 years
-- Building sites since 90s
+- Doing HTML since the 90s
 - Paramedic for 10 years
 
 
@@ -32,7 +32,7 @@ Note:
 - Open up the conversation about mental illness
 <!-- .element: class="fragment" -->
 
-- Share some resources
+- Share some resources and statistics
 <!-- .element: class="fragment" -->
 
 - Share some experiences
@@ -43,6 +43,30 @@ Note:
 
 Note:  This should be focused on why you're doing this talk, not why you're talking about it
 Also, take a first-time selfie
+
+<!--s-->
+
+## WHY TALK ABOUT THIS?
+
+Paramedic for 10 years, EMT before that
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Seen firsthand what untreated mental illness can do
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.  
+
+<!--s-->
+
+## WHY TALK ABOUT THIS? (cont.)
+
+Burden of mental disorders is the largest of all disorder categories in North America - WHO 2008
+<!-- .element: class="fragment"  -->
+
+**IT NEEDS TO BE TALKED ABOUT**
+<!-- .element: class="fragment important"  -->
+
+Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
 
 <!--s-->
 
@@ -93,35 +117,18 @@ Note: Managers, Presidents, CEOs, etc.
 
 <!--s-->
 
-# Who would tell someone with a broken bone to get over it?
+## Who would tell someone with a broken bone to get over it?
 
 Note:  Mention this is what people with mental illness have to deal with a lot of the time
 
 <!--s-->
 
-## WHY TALK ABOUT THIS?
+## This is a fear that people with mental illness have to deal with
 
-Paramedic for 10 years, EMT before that
-<!-- .element: class="fragment" data-fragment-index="1" -->
-
-Seen firsthand what untreated mental illness can do
-<!-- .element: class="fragment" data-fragment-index="2" -->
-
-Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.  
+Note:  People are afraid that they'll be accused of being lazy or just not wanting to work
 
 <!--s-->
 
-## WHY TALK ABOUT THIS? (cont.)
-
-Burden of mental disorders is the largest of all disorder categories in North America - WHO 2008
-<!-- .element: class="fragment"  -->
-
-**IT NEEDS TO BE TALKED ABOUT**
-<!-- .element: class="fragment important"  -->
-
-Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
-
-<!--s-->
 
 ## WHY SHOULD THIS BE IMPORTANT TO YOU?
 
@@ -129,6 +136,7 @@ Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
 (W.H.O. 2008)
 
 Note: YLDs are calculated by multiplying the prevalence of a disorder by the short- or long-term loss of health associated with that disability
+
 <!--s-->
 
 ## WHY IS THIS IMPORTANT TO ME?
@@ -145,7 +153,6 @@ People feel like they're walking on eggshells around me
 Note:
 - This may be a time to mention difficulties at past job
 -
-
 
 <!--s-->
 
