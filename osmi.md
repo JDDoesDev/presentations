@@ -152,7 +152,7 @@ Note: YLDs are calculated by multiplying the prevalence of a disorder by the sho
 - I have mental illness
 <!-- .element: class="fragment" -->
 
-- When I tell people, the treat me differently
+- When I tell people, they treat me differently
 <!-- .element: class="fragment" -->
 
 - *I'm not defective; I have a disease*
