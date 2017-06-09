@@ -565,6 +565,24 @@ Note: So what does that mean?
 
 <!--s-->
 
+### I am not a mental health professional.  I am just a guy trying to open the conversation by telling my story.
+
+#### Some resources available:
+- osmihelp.org
+- Find a therapist: 1-800-THERAPIST
+- National Association on Mental Illness: 1-800-950-NAMI
+- Suicide Lifeline: 1-800-273-8255
+
+<!--s-->
+
+### Special thanks to:
+- OSMI
+- Ed Finkler (@Funkatron)
+- Everyone who helped me open the conversation
+- TCDrupal
+
+<!--s-->
+
 # Thank you for listening
 
 <!--s-->
