@@ -281,15 +281,15 @@ Cover each of these a bit more on the next slides
 
 The feeling that you're not good enough to be doing what you're doing
 
-Note: Without raising hands or anything, how many of you deal with imposter syndrome?
+Note: Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
 
 <!--s-->
 
 ## ISOLATION
 
-We're often put on projects by ourselves, work remotely, or have issues relating to other coworkers
+We're often put on projects by ourselves, work remotely, or have little interaction with coworkers
 
-Note: Developers, at least the ones I've dealt with, are a certain kind of people.  Sometimes we don't always relate to others the way that we see them relating to each other
+Note: Developers, at least the ones I've dealt with, are a certain kind of people.  Sometimes we don't always relate to others the way that we see them relating to each other.  Mention how remote work, although it allows flexibility, can cause feelings of isolation.
 <!--s-->
 
 ## PERFECTIONISTS
@@ -577,13 +577,15 @@ Note: So what does that mean?
 
 ### Special thanks to:
 - OSMI
-- Ed Finkler (@Funkatron)
+- Ed Finkler (@Funkatron) and everyone else on the OSMI Slack
 - Everyone who helped me open the conversation
 - TCDrupal
 
 <!--s-->
 
 # Thank you for listening
+
+Slides available at https://slides.dorfs.website/tcdrupal/
 
 <!--s-->
 
