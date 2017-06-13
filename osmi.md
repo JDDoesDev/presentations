@@ -119,9 +119,11 @@ Note: Managers, Presidents, CEOs, etc.
 
 ## Who has been afraid to call off for
 
-Injuries? <!-- .element: class="fragment" -->
-Infections? <!-- .element: class="fragment" -->
-A baseball game? <!-- .element: class="fragment" -->
+Injuries? <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Infections? <!-- .element: class="fragment" data-fragment-index="2" -->
+
+A baseball game? <!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: Injuries - broken bones, etc.
 Infections - Flu, cough, cold, etc.
