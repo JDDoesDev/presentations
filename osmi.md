@@ -12,7 +12,7 @@ J.D. Flynn, Drupal Technical Architect at Blast Radius
 
 @JDDoesDev • D.O: Dorficus • Slack: Dorf
 
-Twin Cities Drupal Camp • #tcdrupal • #osmi
+Drupal Chicago Meetup • #drupalchicago • #osmi
 
 <!--s-->
 
@@ -29,42 +29,45 @@ Note:
 
 # ABOUT THIS SESSION
 
-- Open up the conversation about mental illness
-<!-- .element: class="fragment" -->
+<!--s-->
 
-- Share some resources and statistics
-<!-- .element: class="fragment" -->
+## Open up the conversation about mental illness
 
-- Share some experiences
-<!-- .element: class="fragment" -->
+<!--s-->
 
-- Try out public speaking
-<!-- .element: class="fragment" -->
+## Share some resources and statistics
+
+<!--s-->
+
+## Share some experiences
+
+<!--s-->
+
+## Try out public speaking
 
 Note:  This should be focused on why you're doing this talk, not why you're talking about it
 Also, take a first-time selfie
 
 <!--s-->
 
-## WHY TALK ABOUT THIS?
+# WHY TALK ABOUT THIS?
 
-- Paramedic for 10 years, EMT before that
-<!-- .element: class="fragment" data-fragment-index="1" -->
+<!--s-->
 
-- I've seen firsthand what untreated mental illness can do
-<!-- .element: class="fragment" data-fragment-index="2" -->
+## Paramedic for 10 years, EMT and firefighter before that
 
+<!--s-->
+
+## I've seen firsthand what untreated mental illness can do
 Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.  
 
 <!--s-->
 
-## WHY TALK ABOUT THIS? (cont.)
+## Burden of mental disorders is the _largest_ of all disorder categories in North America - WHO 2008
 
-- Burden of mental disorders is the largest of all disorder categories in North America - WHO 2008
-<!-- .element: class="fragment"  -->
+<!--s-->
 
-- **IT NEEDS TO BE TALKED ABOUT**
-<!-- .element: class="fragment important"  -->
+## **IT NEEDS TO BE TALKED ABOUT**
 
 Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
 
@@ -107,13 +110,16 @@ Note: Managers, Presidents, CEOs, etc.
 
 ## Who has been afraid to call off for
 
-- Bronchitis? <!-- .element: class="fragment" -->
-- Strep throat? <!-- .element: class="fragment" -->
-- The Flu? <!-- .element: class="fragment" -->
+Injuries? <!-- .element: class="fragment" -->
+Infections? <!-- .element: class="fragment" -->
+A baseball game? <!-- .element: class="fragment" -->
+
+Note: Injuries - broken bones, etc.
+Infections - Flu, cough, cold, etc.
 
 <!--s-->
 
-## Who thinks it would be alright to tell someone with glasses or contacts to try harder?
+## Who thinks it would be alright to tell someone with glasses or contacts to try looking harder?
 
 <!--s-->
 
@@ -121,13 +127,13 @@ Note: Managers, Presidents, CEOs, etc.
 
 <!--s-->
 
-## Who thinks it would be alright to tell someone with diabetes, high blood pressure, or a heart condition they don't need medicine?
+## Who thinks it would be alright to tell someone with diabetes, high blood pressure, or a heart condition to stop taking their medicine?
 
 <!--s-->
 
 ## Who would tell someone with a broken bone that a lot of people have it much worse?
 
-Note:  Mention this is what people with mental illness have to deal with a lot of the time
+Note:  This is what people with mental illness have to deal with a lot of the time
 
 <!--s-->
 
@@ -137,8 +143,9 @@ Note:  People are afraid that they'll be accused of being lazy or just not wanti
 
 <!--s-->
 
-
 ## WHY SHOULD THIS BE IMPORTANT TO YOU?
+
+<!--s-->
 
 “In all regions, neuropsychiatric conditions are the most important causes of disability, accounting for around one third of Years Lost to Disability among adults aged 15 years and over”
 (W.H.O. 2008)
@@ -147,16 +154,21 @@ Note: YLDs are calculated by multiplying the prevalence of a disorder by the sho
 
 <!--s-->
 
-## WHY IS THIS IMPORTANT TO ME?
+# WHY IS THIS IMPORTANT TO ME?
 
-- I have mental illness
-<!-- .element: class="fragment" -->
+<!--s-->
 
-- When I tell people, they treat me differently
-<!-- .element: class="fragment" -->
+## I have mental illness
 
-- *I'm not defective; I have a disease*
-<!-- .element: class="fragment" -->
+<!--s-->
+
+## When I tell people, sometimes they treat me differently
+
+Note: Sometimes they walk or back away, sometimes they start treating me more delicately.  No need to walk on eggshells around me.
+
+<!--s-->
+
+## _**I'm not defective; I have a disease**_
 
 Note:
 - This may be a time to mention difficulties at past job
@@ -164,92 +176,111 @@ Note:
 
 <!--s-->
 
-### TIME TO GET UNCOMFORTABLY PERSONAL
-
-- Major Depression
-<!-- .element: class="fragment" -->
-
-- Anxiety
-<!-- .element: class="fragment" -->
-
-- PTSD
-<!-- .element: class="fragment" -->
-
-Note:  You don't have to go into too much detail.
+# TIME TO GET UNCOMFORTABLY PERSONAL
 
 <!--s-->
 
 ## Major Depression
 
-Clinical depression is marked by a depressed mood most of the day, sometimes particularly in the morning, and a loss of interest in normal activities and relationships -- symptoms that are present every day for at least 2 weeks - WebMD
-
 <!--s-->
 
-## Anxiety Disorder
-
-A mental health disorder characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with one's daily activities - Mayo Clinic
+## Anxiety
 
 <!--s-->
 
 ## PTSD
 
-A disorder characterized by failure to recover after experiencing or witnessing a terrifying event - Mayo Clinic
-
-Note: Consider mentioning some of the ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+Note:  You don't have to go into too much detail.
 
 <!--s-->
 
-## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+## What are these?
 
-- Difficult<!-- .element: class="fragment" -->
+<!--s-->
 
-- Deep, deep valleys<!-- .element: class="fragment" -->
+## Major Depression
 
-- Complete inability to focus<!-- .element: class="fragment" -->
+Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
 
-Note:  
-- Mention crippling fear of everyday things
+<!--s-->
+
+## Anxiety Disorder
+
+A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
+
+<!--s-->
+
+## PTSD
+
+A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
+
+Note: Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+
+<!--s-->
+
+# WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+
+<!--s-->
+
+## Difficult
+Note: In a word, difficult.  Afraid to see a therapist because I thought that would make it real.
+
+<!--s-->
+
+## Deep, deep valleys
+
+Note: But no high peaks indicative of bipolar.
+
+<!--s-->
+
+## Complete inability to focus
+
+Note:  Also mention:
+- crippling fear of everyday things
 - constantly in fear of losing my job because of reduced output due to depression
 - spent a lot of time trying to figure out what was wrong with me
 
 <!--s-->
 
-## But it wasn't all bad
-
-Occasional hyperfocusing <!-- .element: class="fragment" -->
-
-Note: Although the hyperfocusing would sometimes be on useless stuff like WoW or reading meme threads until the end
-
+# HOW DO I COPE?
 
 <!--s-->
 
-## HOW DO I COPE?
+## I take medication
+Note: Better living through chemistry
 
-- I take medication
-<!-- .element: class="fragment" data-fragment-index="1" -->
+<!--s-->
 
-- I see a therapist
-<!-- .element: class="fragment" data-fragment-index="2" -->
+## I see a therapist
 
-- I find outlets
-<!-- .element: class="fragment" data-fragment-index="3" -->
+<!--s-->
 
-- I open the conversation
-<!-- .element: class="fragment" data-fragment-index="4" -->
+## I find outlets
+
+Note: Mention community band, becoming active in the community through teaching
+
+<!--s-->
+
+## I open the conversation
 
 Note:  Mention not being shy about talking about it.
 People don't need to know the details of your PTSD, but that you're not afraid to mention it in social situations.
-If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.  For outlets, mention music and being active in the community.
+If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
 
 <!--s-->
 
-## How has treatment affected me?
+# How has treatment affected me?
 
-- The valleys aren't as deep<!-- .element: class="fragment" -->
+<!--s-->
 
-- I'm not ashamed of who I am<!-- .element: class="fragment" -->
+## The valleys aren't as deep
 
-- My anxiety has gone down, but still rears its ugly head occasionally<!-- .element: class="fragment" -->
+<!--s-->
+
+## I'm not ashamed of who I am
+
+<!--s-->
+## My anxiety has gone down, but still rears its ugly head occasionally<!-- .element: class="fragment" -->
 
 Note: Since getting on medication and seeing a therapist, I've become more comfortable in social situations, although still introverted, and I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing something that other people find normal
 
@@ -257,23 +288,16 @@ Note: Since getting on medication and seeing a therapist, I've become more comfo
 
 # WHAT IS MENTAL ILLNESS?
 
-Note: So I've been going on for a while about how mental illness has affected me, but what is mental illness?
+Note: Now I've been going on for a while about how mental illness has affected me, but what is mental illness?
 
 <!--s-->
 
-Mental illness refers to a wide range of mental health conditions — disorders that affect your mood, thinking and behavior. Examples of mental illness include depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors. - Mayo Clinic
+Mental illness refers to a _wide range_ of _mental health_ conditions — disorders that affect _your mood, thinking and behavior_. Examples of mental illness include _depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors_. - Mayo Clinic
 
 <!--s-->
 
-## WHY IS MENTAL ILLNESS PREVALENT IN THE TECH COMMUNITY?
+# WHY IS MENTAL ILLNESS PREVALENT IN THE TECH COMMUNITY?
 A few possible reasons:
-- Imposter Syndrome <!-- .element: class="fragment" data-fragment-index="1" -->
-- Isolation <!-- .element: class="fragment" data-fragment-index="2" -->
-- Perfectionists <!-- .element: class="fragment" data-fragment-index="3" -->
-- Work never ends <!-- .element: class="fragment" data-fragment-index="4" -->
-
-Note:
-Cover each of these a bit more on the next slides
 
 <!--s-->
 
@@ -306,7 +330,7 @@ Note:  By the time you get to a point where you think you're done and your issue
 
 <!--s-->
 
-## SEVERE LACK OF RESEARCH
+# SEVERE LACK OF RESEARCH
 
 Note:  Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  Sites like devpression.com and word of mouth were all there were to go on
 
@@ -319,17 +343,25 @@ Note: And is still being done
 <!--s-->
 
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
+# OSMI
 
 Note:  Here's a great place to talk about OSMI, what they (we) do, and some of the research done through surveys.
 
 <!--s-->
 
-## OSMI: OPEN SOURCING MENTAL ILLNESS
+# OSMI: OPEN SOURCING MENTAL ILLNESS
 
-- Opening the conversation <!-- .element: class="fragment" data-fragment-index="1" -->
-- Providing resources <!-- .element: class="fragment" data-fragment-index="2" -->
-- Erasing the stigma <!-- .element: class="fragment" data-fragment-index="3" -->
-  - TITLE TIE IN!!! <!-- .element: class="fragment" data-fragment-index="3" -->
+<!--s-->
+## Opening the conversation
+
+<!--s-->
+
+## Providing resources
+
+<!--s-->
+
+## Erasing the stigma
+- TITLE TIE IN!!!
 
 <!--s-->
 
@@ -585,7 +617,7 @@ Note: So what does that mean?
 
 # Thank you for listening
 
-Slides available at https://slides.dorfs.website/tcdrupal/
+Slides available at https://slides.dorfs.website/mental-health/
 
 <!--s-->
 
