@@ -29,9 +29,13 @@ Note:
 
 # ABOUT THIS SESSION
 
+Note: There are a few things that I want to accomplish with this talk.
+
 <!--s-->
 
 ## Open up the conversation about mental illness
+
+Note: This is pretty important.  People don't want to talk about mental illness.
 
 <!--s-->
 
@@ -40,6 +44,8 @@ Note:
 <!--s-->
 
 ## Share some experiences
+
+Note: Both personal and professional
 
 <!--s-->
 
@@ -59,12 +65,15 @@ Also, take a first-time selfie
 <!--s-->
 
 ## I've seen firsthand what untreated mental illness can do
-Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.  
+
+Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.
+And because of the prevalence of mental illness
 
 <!--s-->
 
 ## Burden of mental disorders is the _largest_ of all disorder categories in North America - WHO 2008
 
+Note: But above all else...
 <!--s-->
 
 ## **IT NEEDS TO BE TALKED ABOUT**
