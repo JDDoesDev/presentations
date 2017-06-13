@@ -8,8 +8,7 @@ $dh = opendir($dir);
 while ($f = readdir($dh)) {
   $fullpath = $dir ."/". $f;
   if ($f{0} == "." || !is_dir($fullpath)) continue;
-  echo "<li>
-  <a href=\"$fullpath\">ucwords($f)</a></li>\n";
+  echo "<li><a href=\"$fullpath\">" . ucwords($f) . "</a></li>\n";
 }
 closedir($dh);
 ?>
