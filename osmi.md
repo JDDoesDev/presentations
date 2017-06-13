@@ -209,19 +209,19 @@ Note:  You don't have to go into too much detail.
 
 ## Major Depression
 
-Clinical __depression__ is marked by a __depressed mood most of the day__, sometimes particularly in the morning, and a __loss of interest__ in normal activities and relationships -- symptoms that are present __every day__ for at __least 2 weeks__ - WebMD
+Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
 
 <!--s-->
 
 ## Anxiety Disorder
 
-A mental health disorder characterized by feelings of __worry, anxiety, or fear__ that are strong enough to __interfere with__ one's __daily activities__ - Mayo Clinic
+A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
 
 <!--s-->
 
 ## PTSD
 
-A disorder characterized by __failure to recover__ after experiencing or witnessing __a terrifying event__ - Mayo Clinic
+A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
 
 Note: Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
 
@@ -304,7 +304,7 @@ Note: Now I've been going on for a while about how mental illness has affected m
 
 <!--s-->
 
-Mental illness refers to a __wide range__ of __mental health__ conditions — disorders that affect __your mood, thinking and behavior__. Examples of mental illness include __depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors__. - Mayo Clinic
+Mental illness refers to a _wide range_ of _mental health_ conditions — disorders that affect _your mood, thinking and behavior_. Examples of mental illness include _depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors_. - Mayo Clinic
 
 <!--s-->
 
