@@ -24,50 +24,34 @@ Note:
 - Doing HTML since the 90s
 - Paramedic for 10 years
 
+<!--s-->
+
+## I am not a mental health professional.  I am just a guy trying to open the conversation by telling my story.
+
+Note: Preface the rest of this with a disclaimer
 
 <!--s-->
 
 # ABOUT THIS SESSION
 
 Note: There are a few things that I want to accomplish with this talk.
-
-<!--s-->
-
-## Open up the conversation about mental illness
-
-Note: This is pretty important.  People don't want to talk about mental illness.
-
-<!--s-->
-
-## Share some resources and statistics
-
-<!--s-->
-
-## Share some experiences
-
-Note: Both personal and professional
-
-<!--s-->
-
-## Try out public speaking
-
-Note:  This should be focused on why you're doing this talk, not why you're talking about it
+- Open up the conversation about mental illness
+  - This is pretty important.  People don't want to talk about mental illness.
+- Share some resources and statistics
+- Share some experiences, both personal and professional
+- Try out public speaking
+This should be focused on why you're doing this talk, not why you're talking about it
 Also, take a first-time selfie
 
 <!--s-->
 
 # WHY TALK ABOUT THIS?
 
-<!--s-->
-
-## Paramedic for 10 years, EMT and firefighter before that
-
-<!--s-->
-
-## I've seen firsthand what untreated mental illness can do
-
-Note:  Consider anecdotes from the ambulance, but nothing too drastic or depressing.
-And because of the prevalence of mental illness
+Note:
+- Paramedic for 10 years, EMT and firefighter before that
+- I've seen firsthand what untreated mental illness can do
+- Consider anecdotes from the ambulance, but nothing too drastic or depressing.
+- And because of the prevalence of mental illness
 
 <!--s-->
 
@@ -182,7 +166,6 @@ Note: Sometimes they walk or back away, sometimes they start treating me more de
 ## _**I'm not defective; I have a disease**_
 
 Note:
-- This may be a time to mention difficulties at past job
 - Definitely focus on it not being a personality quirk, but illness
 
 <!--s-->
@@ -229,6 +212,24 @@ Note: Consider mentioning some ambulance things, firefighter things, and general
 
 <!--s-->
 
+# HOW DO I COPE?
+
+<!--s-->
+
+# I GOT TREATMENT
+Note:
+- I take medication
+  - Better living through chemistry
+- I see a therapist
+  - I'm currently between therapists, but looking.  Turns out Indiana isn't full of reputable therapists
+- I find outlets. Mention community band, becoming active in the community through teaching
+- I open the conversation
+Mention not being shy about talking about it.
+People don't need to know the details of your PTSD, but that you're not afraid to mention it in social situations.
+If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
+
+<!--s-->
+
 # WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
 
 <!--s-->
@@ -250,34 +251,6 @@ Note:  Also mention:
 - crippling fear of everyday things
 - constantly in fear of losing my job because of reduced output due to depression
 - spent a lot of time trying to figure out what was wrong with me
-
-<!--s-->
-
-# HOW DO I COPE?
-
-<!--s-->
-
-## I take medication
-Note: Better living through chemistry
-
-<!--s-->
-
-## I see a therapist
-Note: I'm currently between therapists, but looking.  Turns out Indiana isn't full of reputable therapists
-
-<!--s-->
-
-## I find outlets
-
-Note: Mention community band, becoming active in the community through teaching
-
-<!--s-->
-
-## I open the conversation
-
-Note:  Mention not being shy about talking about it.
-People don't need to know the details of your PTSD, but that you're not afraid to mention it in social situations.
-If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
 
 <!--s-->
 
@@ -317,7 +290,7 @@ A few possible reasons:
 
 ## IMPOSTER SYNDROME
 
-The feeling that you're not good enough to be doing what you're doing
+The feeling that you don't deserve to be doing what you're doing
 
 Note: Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
 
@@ -443,12 +416,6 @@ Note:
 
 # We're afraid to talk about it
 <!-- .element: class="fragment" -->
-
-<!--s-->
-
-<img class="chart" data-src="./img/y_tho.jpg" border="none">
-
-Note: what would a deck be without a meme?
 
 <!--s-->
 
@@ -610,8 +577,6 @@ Note: So what does that mean?
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
 <!--s-->
-
-### I am not a mental health professional.  I am just a guy trying to open the conversation by telling my story.
 
 #### Some resources available:
 - osmihelp.org
