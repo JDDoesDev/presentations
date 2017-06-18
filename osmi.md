@@ -12,7 +12,7 @@ J.D. Flynn, Drupal Technical Architect at Blast Radius
 
 @JDDoesDev • D.O: Dorficus • Slack: Dorf
 
-Drupal Chicago Meetup • #drupalchicago • #osmi
+Twin Cities Drupal Camp • #tcdrupal • #osmi
 
 <!--s-->
 
@@ -45,29 +45,9 @@ Also, take a first-time selfie
 
 <!--s-->
 
-# WHY TALK ABOUT THIS?
-
-Note:
-- Paramedic for 10 years, EMT and firefighter before that
-- I've seen firsthand what untreated mental illness can do
-- Consider anecdotes from the ambulance, but nothing too drastic or depressing.
-- And because of the prevalence of mental illness
-
-<!--s-->
-
-## Burden of mental disorders is the _largest_ of all disorder categories in North America - WHO 2008
-
-Note: But above all else...
-<!--s-->
-
-## **IT NEEDS TO BE TALKED ABOUT**
-
-Note:  Mention Ed/Funkatron and OSMI, source for stat is WHO 2008
-
-<!--s-->
-
 # QUESTION TIME
-(The fun part)
+
+### AKA Unexpected audience participation
 
 Note:  This is where you ask about
 - developers, PMs, HR
@@ -101,13 +81,7 @@ Note: Managers, Presidents, CEOs, etc.
 
 <!--s-->
 
-## Who has been afraid to call off for
-
-Injuries? <!-- .element: class="fragment" data-fragment-index="1" -->
-
-Infections? <!-- .element: class="fragment" data-fragment-index="2" -->
-
-A baseball game? <!-- .element: class="fragment" data-fragment-index="3" -->
+## Who has been afraid to call off for physical illnesses?
 
 Note: Injuries - broken bones, etc.
 Infections - Flu, cough, cold, etc.
@@ -126,26 +100,32 @@ Infections - Flu, cough, cold, etc.
 
 <!--s-->
 
-## Who would tell someone with a broken bone that a lot of people have it much worse?
+# WHY TALK ABOUT THIS?
 
-Note:  This is what people with mental illness have to deal with a lot of the time
-
-<!--s-->
-
-## This is a fear that people with mental illness have to deal with
-
-Note:  People are afraid that they'll be accused of being lazy or just not wanting to work
+Note:
+- Paramedic for 10 years, EMT and firefighter before that
+- I've seen firsthand what untreated mental illness can do
+- Consider anecdotes from the ambulance, but nothing too drastic or depressing.
+- And because...
 
 <!--s-->
 
-## WHY SHOULD THIS BE IMPORTANT TO YOU?
+# I have mental illness
+
+Note: And because...
 
 <!--s-->
 
-“In all regions, neuropsychiatric conditions are the most important causes of disability, accounting for around one third of Years Lost to Disability among adults aged 15 years and over”
-(W.H.O. 2008)
+## Burden of mental disorders is the _largest_ of all disorder categories in North America - WHO 2008
 
-Note: YLDs are calculated by multiplying the prevalence of a disorder by the short- or long-term loss of health associated with that disability
+Note: But above all else...
+<!--s-->
+
+# **IT NEEDS TO BE TALKED ABOUT**
+
+Note:
+- The conversation needs to be started
+- The stigma needs to be erased
 
 <!--s-->
 
@@ -154,6 +134,15 @@ Note: YLDs are calculated by multiplying the prevalence of a disorder by the sho
 <!--s-->
 
 ## I have mental illness
+
+Note:  As I mentioned before, I have mental illnesses
+
+<!--s-->
+
+## I suffered in silence
+
+Note: For a very long time I was in denial.  I was afraid that admitting I had an illness would make it real
+- Perfect health until doctor tells you otherwise
 
 <!--s-->
 
@@ -176,43 +165,25 @@ Note:
 
 ## Major Depression
 
-<!--s-->
-
-## Anxiety
-
-<!--s-->
-
-## PTSD
-
-Note:  You don't have to go into too much detail.
-
-<!--s-->
-
-## What are these?
-
-<!--s-->
-
-## Major Depression
-
-Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
+Note: Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
 
 <!--s-->
 
 ## Anxiety Disorder
 
-A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
+Note: A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
 
 <!--s-->
 
 ## PTSD
 
-A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
-
-Note: Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+Note:
+- A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
+- Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
 
 <!--s-->
 
-# HOW DO I COPE?
+# What changed?
 
 <!--s-->
 
@@ -223,7 +194,7 @@ Note:
 - I see a therapist
   - I'm currently between therapists, but looking.  Turns out Indiana isn't full of reputable therapists
 - I find outlets. Mention community band, becoming active in the community through teaching
-- I open the conversation
+- I start the conversation
 Mention not being shy about talking about it.
 People don't need to know the details of your PTSD, but that you're not afraid to mention it in social situations.
 If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
@@ -235,6 +206,7 @@ If other people are uncomfortable about it, that's their problem.  Mention somet
 <!--s-->
 
 ## Difficult
+
 Note: In a word, difficult.  Afraid to see a therapist because I thought that would make it real.
 
 <!--s-->
@@ -283,40 +255,6 @@ Mental illness refers to a _wide range_ of _mental health_ conditions — disord
 
 <!--s-->
 
-# WHY IS MENTAL ILLNESS PREVALENT IN THE TECH COMMUNITY?
-A few possible reasons:
-
-<!--s-->
-
-## IMPOSTER SYNDROME
-
-The feeling that you don't deserve to be doing what you're doing
-
-Note: Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
-
-<!--s-->
-
-## ISOLATION
-
-We're often put on projects by ourselves, work remotely, or have little interaction with coworkers
-
-Note: Developers, at least the ones I've dealt with, are a certain kind of people.  Sometimes we don't always relate to others the way that we see them relating to each other.  Mention how remote work, although it allows flexibility, can cause feelings of isolation.
-<!--s-->
-
-## PERFECTIONISTS
-
-Usually, we don't like to put out crap code. We prefer things to be perfect, but...
-
-<!--s-->
-
-## WORK NEVER ENDS
-
-We have job security, but there are always bugs, feature requests, or any number of issues that keep projects from ever being complete.
-
-Note:  By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.  For those of us who are completionists, this can be really stressful
-
-<!--s-->
-
 # SEVERE LACK OF RESEARCH
 
 Note:  Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  Sites like devpression.com and word of mouth were all there were to go on
@@ -330,33 +268,14 @@ Note: And is still being done
 <!--s-->
 
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
-# OSMI
-
-Note:  Here's a great place to talk about OSMI, what they (we) do, and some of the research done through surveys.
-
-<!--s-->
-
-# OSMI: OPEN SOURCING MENTAL ILLNESS
-
-<!--s-->
-## Opening the conversation
-
-<!--s-->
-
-## Providing resources
-
-<!--s-->
-
-## Erasing the stigma
-- TITLE TIE IN!!!
-
-<!--s-->
 
 ## Mental Health in Tech 2016 Survey Results
 
 As of 11/16/2016, US Residents, Non-self-employed
 
 [osmihelp.org/research](osmihelp.org/research)
+
+Note: This survey was done by OSMI and had approximately 1500 responses.  The survey was made available to several different communities.  All responses are self-reported.
 
 <!--s-->
 
@@ -412,14 +331,77 @@ Note:
 
 <!--s-->
 
-## What's the recurring theme here?
+# WHY IS MENTAL ILLNESS PREVALENT IN THE TECH COMMUNITY?
+A few possible reasons:
 
-# We're afraid to talk about it
-<!-- .element: class="fragment" -->
+Note:  These are my own theories and surveys.
+<!--s-->
+
+## IMPOSTER SYNDROME
+
+The feeling that you don't deserve to be doing what you're doing
+
+Note: Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
+
+<!--s-->
+
+## ISOLATION
+
+We're often put on projects by ourselves, work remotely, or have little interaction with coworkers
+
+Note: Developers, at least the ones I've dealt with, are a certain kind of people.  Sometimes we don't always relate to others the way that we see them relating to each other.  Mention how remote work, although it allows flexibility, can cause feelings of isolation.
+<!--s-->
+
+## PERFECTIONISTS
+
+Usually, we don't like to put out crap code. We prefer things to be perfect, but...
+
+<!--s-->
+
+## WORK NEVER ENDS
+
+We have job security, but there are always bugs, feature requests, or any number of issues that keep projects from ever being complete.
+
+Note:  By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.  For those of us who are completionists, this can be really stressful
+
+<!--s-->
+
+## Regardless of the cause, one thing remains the same
+
+<!--s-->
+
+# We're afraid to talk about mental illness
 
 <!--s-->
 
 ## Why are we afraid?  It's because of the stigma.
+
+<!--s-->
+
+### Images like this
+
+<img class="chart" data-src="./img/bs-antidepressant.jpg" border="none">
+
+<!--s-->
+
+### This...
+
+<img class="chart" data-src="./img/pills.jpg" border="none">
+
+<!--s-->
+
+### And this...
+
+<img class="chart" data-src="./img/matrix.jpg" border="none">
+
+<!--s-->
+
+## They all pretty much say the same thing
+
+Note:
+- You're not trying hard enough
+- Personally, I can vouch for the effects of antidepressants
+- Remember those questions earlier?
 
 <!--s-->
 
@@ -456,7 +438,7 @@ Source:  ATTN: https://www.youtube.com/watch?v=Bor9xVnbIz8
 
 <!--s-->
 
-# Open the conversation
+# Start the conversation
 
 <!--s-->
 
@@ -507,7 +489,13 @@ Note: Especially as someone with anxiety, worrying what people think can drive y
 
 <!--s-->
 
-## We're afraid we might get sent to the ~~principal's&nbsp;office~~ HR Department
+## Some of our minds go straight to the worst case scenario
+
+Note:  Mention email of "we need to talk" on 89th day of 90 day probation and "password incorrect" email error at current job
+
+<!--s-->
+
+## We're araid we might get sent to the ~~principal's&nbsp;office~~ HR Department
 
 Note: Mention how it took you a lot to build up the courage to tell your bosses about your illness only to get a call from HR.  From people you deal with every day to someone who might as well be a stranger.
 
@@ -541,6 +529,8 @@ Note: mention the exit interview and sending a link to OSMI
 
 # http://bit.ly/osmi-books <!-- .element: class="fragment" data-fragment-index="1" -->
 
+Note:  Not trying to sell anything, but the books are DRM free and extremely useful
+
 <!--s-->
 
 ## The tech community is our greatest resource
@@ -571,9 +561,11 @@ Note: So what does that mean?
 
 # We are not damaged
 
+Note: And with a little work, together we can be....
+
 <!--s-->
 
-# We are stronger than fear
+# Stronger than fear
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
 <!--s-->
