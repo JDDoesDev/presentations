@@ -213,7 +213,10 @@ Note: In a word, difficult.  Afraid to see a therapist because I thought that wo
 
 ## Deep, deep valleys
 
-Note: But no high peaks indicative of bipolar.
+Note:
+- I mess up everything I touch
+- Small losses overshadow huge wins
+- But no high peaks indicative of bipolar.
 
 <!--s-->
 
@@ -223,6 +226,15 @@ Note:  Also mention:
 - crippling fear of everyday things
 - constantly in fear of losing my job because of reduced output due to depression
 - spent a lot of time trying to figure out what was wrong with me
+
+<!--s-->
+
+## Alone
+
+Note:
+- Feel alone in crowded spaces
+- Always feel like people are looking at me for any flaws
+- Example:  On the train i hope nobody sits next to me, but i wonder what's wrong with me when nobody sits next to me
 
 <!--s-->
 
@@ -239,11 +251,22 @@ Note: Not to say they aren't around anymore or that I don't have deep valleys, b
 Note: Before, I wanted to hide in shame because of who I am and my conditions.  I've since realized that it's just part of me.
 
 <!--s-->
+
 ## My anxiety has gone down, but still rears its ugly head occasionally
 
 Note: Since getting on medication and seeing a therapist, I've become more comfortable in social situations, although still introverted, and I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing something that other people find normal
 
 <!--s-->
+
+## Not alone
+
+Note:
+- Since getting diagnosed and erasing stigma from myself I've realized I'm not alone
+- I realized that I was afraid because of the way people viewed me
+- I don't feel that way anymore because of organizations like OSMI
+
+<!--s-->
+
 
 # WHAT IS MENTAL ILLNESS?
 
@@ -321,13 +344,19 @@ Note: Over 5x more think that there would _definitely_ be negative consequences
 <!-- .slide: class="chartSlide" -->
 Have you been diagnosed with a mental health condition?
 
-<img class="chart" data-src="./img/diagnosed_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/diagnosed_chart.png" border="none"> <!-- .element: class="fragment chart" -->
 
 Note:  
 - This is self reported
-- Average is 20%
+- Average is around 20%
 - 1500 responses
+-
+<!--s-->
 
+For comparison: "In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with AMI within the past year. This number represented 17.9% of all U.S. adults." - National Institute of Mental Health
+
+Note:
+- AMI - Any mental illness
 
 <!--s-->
 
