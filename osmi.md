@@ -22,6 +22,7 @@ Note:
 - Name
 - Drupal/PHP Developer for 4 years
 - Doing HTML since the 90s
+- Midcamp Organizer
 - Paramedic for 10 years
 
 <!--s-->
