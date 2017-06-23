@@ -629,9 +629,13 @@ Note: And with a little work, together we can....
 
 <!--s-->
 
-# Thank you for listening
+### Thank you for listening
 
 Slides available at https://slides.dorfs.website/mental-health/
+
+Feedback: https://joind.in/talk/4b877 or
+
+<img data-src="./img/qr.png" border="none">
 
 <!--s-->
 
