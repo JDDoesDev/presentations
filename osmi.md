@@ -623,7 +623,7 @@ Note: And with a little work, together we can....
 
 ### Special thanks to:
 - OSMI
-- Ed Finkler (@Funkatron) and everyone else on the OSMI Slack
+- Ed Finkler (@Funkatron) and everyone else on the OSMI Team
 - Everyone who helped me open the conversation
 - TCDrupal
 
