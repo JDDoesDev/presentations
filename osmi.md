@@ -41,6 +41,7 @@ Note: There are a few things that I want to accomplish with this talk.
 - Share some resources and statistics
 - Share some experiences, both personal and professional
 - Try out public speaking
+
 This should be focused on why you're doing this talk, not why you're talking about it
 Also, take a first-time selfie
 
@@ -75,29 +76,6 @@ Note: or account managers or similar
 # How many of you are in upper management?
 
 Note: Managers, Presidents, CEOs, etc.
-
-<!--s-->
-
-# Who here has taken a sick day?
-
-<!--s-->
-
-## Who has been afraid to call off for physical illnesses?
-
-Note: Injuries - broken bones, etc.
-Infections - Flu, cough, cold, etc.
-
-<!--s-->
-
-## Who thinks it would be alright to tell someone with glasses or contacts to try looking harder?
-
-<!--s-->
-
-## Who thinks it would be alright to tell someone in a wheelchair that they should just get over it and walk?
-
-<!--s-->
-
-## Who thinks it would be alright to tell someone with diabetes, high blood pressure, or a heart condition to stop taking their medicine?
 
 <!--s-->
 
@@ -189,6 +167,8 @@ Note:
 <!--s-->
 
 # I GOT TREATMENT
+
+@TODO: More slides?
 Note:
 - I take medication
   - Better living through chemistry
@@ -217,18 +197,24 @@ Note: In a word, difficult.  Afraid to see a therapist because I thought that wo
 Note:
 - I mess up everything I touch
 - Small losses overshadow huge wins
-- But no high peaks indicative of bipolar.
 
 <!--s-->
 
 ## Complete inability to focus
 
 Note:  Also mention:
-- crippling fear of everyday things
 - constantly in fear of losing my job because of reduced output due to depression
 - spent a lot of time trying to figure out what was wrong with me
 
 <!--s-->
+
+## Afraid
+
+Note:  Also mention:
+- crippling fear of everyday things
+- @todo some more examples of anxiety fear
+<!--s-->
+
 
 ## Alone
 
@@ -293,7 +279,7 @@ Note: And is still being done
 
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
-## Mental Health in Tech 2016 Survey Results
+## Mental Health in Tech 2016 Survey Results
 
 As of 11/16/2016, US Residents, Non-self-employed
 
@@ -316,7 +302,7 @@ Does your employer provide resources to learn more about mental health issues an
 
 <img class="chart" data-src="./img/resources_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
-Note: Only 30% can say with any certainty that they know there are resources, but the highest percentage says no.
+Note: Only 30% can say with any certainty that they know there are resources, but the highest percentage says no.  Does not include insurance coverage.
 
 <!--s-->
 
@@ -372,6 +358,7 @@ Note:  These are my own theories and surveys.
 The feeling that you don't deserve to be doing what you're doing
 
 Note: Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
+- inability to take compliments
 
 <!--s-->
 
@@ -405,6 +392,29 @@ Note:  By the time you get to a point where you think you're done and your issue
 <!--s-->
 
 ## Why are we afraid?  It's because of the stigma.
+
+<!--s-->
+
+# Who here has taken a sick day?
+
+<!--s-->
+
+## Who has been afraid to call off for injuries or infections?
+
+Note: Injuries - broken bones, etc.
+Infections - Flu, cough, cold, etc.
+
+<!--s-->
+
+## Who has ever told someone with glasses or contacts to try looking harder?
+
+<!--s-->
+
+## Who has ever told someone in a wheelchair that they should just get over it and walk?
+
+<!--s-->
+
+## Who has ever told someone with diabetes, high blood pressure, or a heart condition to stop taking their medicine?
 
 <!--s-->
 
@@ -481,6 +491,8 @@ Note: If someone trusts you enough to talk about their mental health, listen.
 # Let people know they matter
 
 Note: As someone with a disability, hearing an affirmation can do amazing things
+- Ambulance anecdote
+
 
 <!--s-->
 
@@ -521,8 +533,9 @@ Note: Especially as someone with anxiety, worrying what people think can drive y
 
 ## Some of our minds go straight to the worst case scenario
 
-Note:  Mention email of "we need to talk" on 89th day of 90 day probation and "password incorrect" email error at current job
-
+Note:  
+- Mention email of "we need to talk" on 89th day of 90 day probation and "password incorrect" email error at current job
+- Binary mind
 <!--s-->
 
 ## We're araid we might get sent to the ~~principal's&nbsp;office~~ HR Department
@@ -591,11 +604,11 @@ Note: So what does that mean?
 
 # We are not damaged
 
-Note: And with a little work, together we can be....
+Note: And with a little work, together we can....
 
 <!--s-->
 
-# Stronger than fear
+# Erase the stigma
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
 <!--s-->
