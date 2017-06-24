@@ -180,9 +180,17 @@ Note:
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
+## I accepted something was wrong
+
+Note:
+- For a lot of people this is the hardest part
+- And...
+
+<!--s-->
+<!-- .slide: data-background-color="#675b53" -->
+
 # I GOT TREATMENT
 
-@TODO: More slides?
 Note:
 - I take medication
   - Better living through chemistry
@@ -210,6 +218,8 @@ Note: In a word, difficult.  Afraid to see a therapist because I thought that wo
 ## Deep, deep valleys
 
 Note:
+- Felt useless
+- Unable to function
 - I mess up everything I touch
 - Small losses overshadow huge wins
 
@@ -227,16 +237,27 @@ Note:  Also mention:
 
 Note:  Also mention:
 - crippling fear of everyday things
-- @todo some more examples of anxiety fear
+- Social situations were paralyzing
+- canceled plans a lot
+- and that led me to feeling...
 
 <!--s-->
 
 ## Alone
 
 Note:
+- i was alone because i canceled plans
 - Feel alone in crowded spaces
 - Always feel like people are looking at me for any flaws
 - Example:  On the train i hope nobody sits next to me, but i wonder what's wrong with me when nobody sits next to me
+
+<!--s-->
+
+## Misunderstood
+
+Note:
+- People often thought I was angry when I was terrified
+  - wedding example "try smiling!"
 
 <!--s-->
 
@@ -259,7 +280,10 @@ Note: Before, I wanted to hide in shame because of who I am and my conditions.  
 
 ## My anxiety has gone down, but still rears its ugly head occasionally
 
-Note: Since getting on medication and seeing a therapist, I've become more comfortable in social situations, although still introverted, and I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing something that other people find normal
+Note: Since getting on medication and seeing a therapist,
+- I've become more comfortable in social situations,
+- still introverted,
+- I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing normal things
 
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
@@ -359,9 +383,11 @@ Note:
 -
 <!--s-->
 
-For comparison: "In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with AMI within the past year. This number represented 17.9% of all U.S. adults." - National Institute of Mental Health
+## As of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
 
 Note:
+"In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with any mental illness within the past year. This number represented 17.9% of all U.S. adults." - National Institute of Mental Health
+
 - AMI - Any mental illness
 
 <!--s-->
@@ -377,9 +403,9 @@ Note:  These are my own theories and surveys.
 
 ## IMPOSTER SYNDROME
 
-The feeling that you don't deserve to be doing what you're doing
-
-Note: Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
+Note:
+- The feeling that you don't deserve to be doing what you're doing
+- Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
 - inability to take compliments
 
 <!--s-->
@@ -387,24 +413,27 @@ Note: Give example of how you deal with it/are dealing with it.  Mention that it
 
 ## ISOLATION
 
-We're often put on projects by ourselves, work remotely, or have little interaction with coworkers
+Note:
+- We're often put on projects by ourselves, work remotely, or have little interaction with coworkers
+- Developers, at least the ones I've dealt with, are a certain kind of people.  
+- Sometimes we don't always relate to others the way that we see them relating to each other.  
+- Mention how remote work, although it allows flexibility, can cause feelings of isolation.
 
-Note: Developers, at least the ones I've dealt with, are a certain kind of people.  Sometimes we don't always relate to others the way that we see them relating to each other.  Mention how remote work, although it allows flexibility, can cause feelings of isolation.
 <!--s-->
 <!-- .slide: data-background-color="#888f79" -->
 
 ## PERFECTIONISTS
 
-Usually, we don't like to put out crap code. We prefer things to be perfect, but...
+Note: Usually, we don't like to put out crap code. We prefer things to be perfect, but...
 
 <!--s-->
 <!-- .slide: data-background-color="#888f79" -->
 
 ## WORK NEVER ENDS
 
-We have job security, but there are always bugs, feature requests, or any number of issues that keep projects from ever being complete.
-
-Note:  By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.  For those of us who are completionists, this can be really stressful
+Note:
+- We have job security, but there are always bugs, feature requests, or any number of issues that keep projects from ever being complete.
+- By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.  For those of us who are completionists, this can be really stressful
 
 <!--s-->
 <!-- .slide: data-background-color="#888f79" -->
