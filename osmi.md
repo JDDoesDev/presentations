@@ -53,14 +53,13 @@ Also, take a first-time selfie
 
 Note:  This is where you ask about
 - developers, PMs, HR
-- diabetes, HTN, flu, etc
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
 # How many of you are developers?
 
-Note: Or themers, or site builders, or anything directly related to the tech
+Note: Or here to learn development, themers, or site builders, or anything directly related to the tech
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
