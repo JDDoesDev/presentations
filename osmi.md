@@ -46,7 +46,7 @@ This should be focused on why you're doing this talk, not why you're talking abo
 Also, take a first-time selfie
 
 <!--s-->
-
+<!-- .slide: data-background-color="#675b53" -->
 # QUESTION TIME
 
 ### AKA Unexpected audience participation
@@ -56,28 +56,33 @@ Note:  This is where you ask about
 - diabetes, HTN, flu, etc
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 # How many of you are developers?
 
 Note: Or themers, or site builders, or anything directly related to the tech
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 # How many of you are project managers?
 
 Note: or account managers or similar
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 # How many of you are in HR?
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 # How many of you are in upper management?
 
 Note: Managers, Presidents, CEOs, etc.
 
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 # WHY TALK ABOUT THIS?
 
@@ -88,17 +93,20 @@ Note:
 - And because...
 
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 # I have mental illness
 
 Note: And because...
 
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 ## Burden of mental disorders is the _largest_ of all disorder categories in North America - WHO 2008
 
 Note: But above all else...
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 # **IT NEEDS TO BE TALKED ABOUT**
 
@@ -112,7 +120,7 @@ Note:
 
 <!--s-->
 
-## I have mental illness
+# I have mental illness
 
 Note:  As I mentioned before, I have mental illnesses
 
@@ -137,22 +145,26 @@ Note:
 - Definitely focus on it not being a personality quirk, but illness
 
 <!--s-->
+<!-- .slide: data-background-color="#360101" -->
 
 # TIME TO GET UNCOMFORTABLY PERSONAL
 
 <!--s-->
+<!-- .slide: data-background-color="#360101" -->
 
 ## Major Depression
 
 Note: Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
 
 <!--s-->
+<!-- .slide: data-background-color="#360101" -->
 
 ## Anxiety Disorder
 
 Note: A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
 
 <!--s-->
+<!-- .slide: data-background-color="#360101" -->
 
 ## PTSD
 
@@ -162,9 +174,11 @@ Note:
 
 <!--s-->
 
+<!-- .slide: data-background-color="#675b53" -->
 # What changed?
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 # I GOT TREATMENT
 
@@ -181,6 +195,7 @@ People don't need to know the details of your PTSD, but that you're not afraid t
 If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 # WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
 
@@ -213,8 +228,8 @@ Note:  Also mention:
 Note:  Also mention:
 - crippling fear of everyday things
 - @todo some more examples of anxiety fear
-<!--s-->
 
+<!--s-->
 
 ## Alone
 
@@ -228,22 +243,26 @@ Note:
 # How has treatment affected me?
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 ## The valleys aren't as deep
 Note: Not to say they aren't around anymore or that I don't have deep valleys, but they are much less frequent than before.
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 ## I'm not ashamed of who I am
 Note: Before, I wanted to hide in shame because of who I am and my conditions.  I've since realized that it's just part of me.
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 ## My anxiety has gone down, but still rears its ugly head occasionally
 
 Note: Since getting on medication and seeing a therapist, I've become more comfortable in social situations, although still introverted, and I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing something that other people find normal
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 ## Not alone
 
@@ -271,7 +290,7 @@ Note:  Although it was suspected that there was a higher incidence of mental ill
 
 <!--s-->
 
-## FORTUNATELY, we don't have to rely on speculation anymore... The research has been done!
+## FORTUNATELY, we don't have to rely on speculation anymore...
 
 Note: And is still being done
 
@@ -346,12 +365,15 @@ Note:
 - AMI - Any mental illness
 
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
-# WHY IS MENTAL ILLNESS PREVALENT IN THE TECH COMMUNITY?
-A few possible reasons:
+## WHY IS MENTAL ILLNESS PREVALENT IN THE TECH COMMUNITY?
+### A few possible reasons:
 
 Note:  These are my own theories and surveys.
+
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 ## IMPOSTER SYNDROME
 
@@ -361,6 +383,7 @@ Note: Give example of how you deal with it/are dealing with it.  Mention that it
 - inability to take compliments
 
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 ## ISOLATION
 
@@ -368,12 +391,14 @@ We're often put on projects by ourselves, work remotely, or have little interact
 
 Note: Developers, at least the ones I've dealt with, are a certain kind of people.  Sometimes we don't always relate to others the way that we see them relating to each other.  Mention how remote work, although it allows flexibility, can cause feelings of isolation.
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 ## PERFECTIONISTS
 
 Usually, we don't like to put out crap code. We prefer things to be perfect, but...
 
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 ## WORK NEVER ENDS
 
@@ -382,22 +407,29 @@ We have job security, but there are always bugs, feature requests, or any number
 Note:  By the time you get to a point where you think you're done and your issue queue is empty, it's time for a reskin or rebuild.  For those of us who are completionists, this can be really stressful
 
 <!--s-->
+<!-- .slide: data-background-color="#888f79" -->
 
 ## Regardless of the cause, one thing remains the same
 
 <!--s-->
+<!-- .slide: data-background-color="#360101" -->
 
 # We're afraid to talk about mental illness
 
 <!--s-->
+<!-- .slide: data-background-color="#360101" -->
 
 ## Why are we afraid?  It's because of the stigma.
 
+Note:  Let's change it up a bit and ask some more questions
+
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 # Who here has taken a sick day?
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ## Who has been afraid to call off for injuries or infections?
 
@@ -405,36 +437,43 @@ Note: Injuries - broken bones, etc.
 Infections - Flu, cough, cold, etc.
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ## Who has ever told someone with glasses or contacts to try looking harder?
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ## Who has ever told someone in a wheelchair that they should just get over it and walk?
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ## Who has ever told someone with diabetes, high blood pressure, or a heart condition to stop taking their medicine?
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ### Images like this
 
 <img class="chart" data-src="./img/bs-antidepressant.jpg" border="none">
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ### This...
 
 <img class="chart" data-src="./img/pills.jpg" border="none">
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ### And this...
 
 <img class="chart" data-src="./img/matrix.jpg" border="none">
 
 <!--s-->
+<!-- .slide: data-background-color="#675b53" -->
 
 ## They all pretty much say the same thing
 
@@ -575,6 +614,7 @@ Note: mention the exit interview and sending a link to OSMI
 Note:  Not trying to sell anything, but the books are DRM free and extremely useful
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 ## The tech community is our greatest resource
 
@@ -583,24 +623,29 @@ Time to bring it home --
 Especially in open source communities
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 ## *__50%__* of survey respondents claimed mental illness diagnoses
 
 Note: So what does that mean?
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 # We are not alone
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 # We are more than usernames
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 # We are real people
 
 <!--s-->
+<!-- .slide: data-background-color="#008e7f" -->
 
 # We are not damaged
 
