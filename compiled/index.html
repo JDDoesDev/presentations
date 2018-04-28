@@ -8,6 +8,14 @@
         <link rel="stylesheet" href="./css/highlight/zenburn.css">
         <link rel="stylesheet" href="./css/print/paper.css" type="text/css" media="print">
 
+<script>
+	var link = document.createElement( 'link' );
+	link.rel = 'stylesheet';
+	link.type = 'text/css';
+	link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+	document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
     </head>
     <body>
 
@@ -63,6 +71,6 @@
             options = extend(defaultOptions, options, queryOptions);
             Reveal.initialize(options);
         </script>
-        
+
     </body>
 </html>
