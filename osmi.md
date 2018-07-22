@@ -8,7 +8,7 @@ theme: osmi
 # ERASING THE STIGMA
 ## MENTAL ILLNESS IN TECH
 
-J.D. Flynn, Lead CMS Developer at Isobar
+J.D. Flynn, Drupal Technical Architect at Genuine Interactive
 
 @JDDoesDev • D.O: Dorficus • Slack(s): Dorf
 
@@ -122,12 +122,15 @@ You're going to learn a lot about me, so I'd like to learn a little about you
 - Major Depression <!-- .element: class="fragment" -->
 - Anxiety Disorder <!-- .element: class="fragment" -->
 - PTSD <!-- .element: class="fragment" -->
+- ADHD <!-- .element: class="fragment" -->
 
 Note:
 - Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
 - Anxiety: A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
 - PTSD: A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
-- Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+  - Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+- ADHD disorder that is characterized by varying degrees of hyperactivity, impulsivity, and/or inattention that lead to difficulty in academic, emotional, and social functioning.
+  - When I was a kid, this was often looked at as "just being a kid"
 
 What Changed?
 
@@ -236,6 +239,7 @@ Note:
   - I've become more comfortable in social situations,
   - still introverted,
   - I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing normal things
+- I am not as afraid of losing my job because of being unable to focus
 - Also, i realize...
 
 <!--s-->
@@ -383,24 +387,29 @@ Note:
 
 ## Let's see what the data says!
 
-
 <!--s-->
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
-## Mental Health in Tech 2016 Survey Results
-
-As of 11/16/2016, US Residents, Non-self-employed
+## Mental Health in Tech 2017 Survey Results
 
 [osmihelp.org/research](osmihelp.org/research)
 
-Note: This survey was done by OSMI and had approximately 1500 responses.  The survey was made available to several different communities.  All responses are self-reported.
+Note: This survey was done by OSMI and had approximately 800 responses.  The survey was made available to several different communities.  All responses are self-reported.
 
 <!--s-->
 
 <!-- .slide: class="chartSlide" -->
-Would you bring up a health issue with a potential employer at an interview?
+Would you bring up a _PHYSICAL_ health issue with a potential employer at an interview?
 
-<img class="chart" data-src="./img/interview_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/PhysicalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+Note: Almost twice as many say "NO"
+<!--s-->
+
+<!-- .slide: class="chartSlide" -->
+Would you bring up a _MENTAL_ health issue with a potential employer at an interview?
+
+<img class="chart" data-src="./img/MentalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note: Almost twice as many say "NO"
 <!--s-->
@@ -408,16 +417,23 @@ Note: Almost twice as many say "NO"
 <!-- .slide: class="chartSlide" -->
 Does your employer provide resources to learn more about mental health issues and how to seek help?
 
-<img class="chart" data-src="./img/resources_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/EmployerResources.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note: Only 30% can say with any certainty that they know there are resources, but the highest percentage says no.  Does not include insurance coverage.
 
 <!--s-->
 
 <!-- .slide: class="chartSlide" -->
-Do you feel that being identified as a person with a mental health issue would hurt your career?
+Does your employer provide mental health benefits as part of healthcare coverage?
 
-<img class="chart" data-src="./img/identified_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/BenefitsAsCoverage.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+<!--s-->
+
+<!-- .slide: class="chartSlide" -->
+Do you feel that being identified as a person with a mental health issue would hurt your career? (2016)
+
+<img class="chart" data-src="./img/HurtCareer.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note:  Only 12% say "no".  That speaks volumes to me.
 - This is something I worry about every time I give this talk, but it is kind of freeing knowing that all my cards are on the table
@@ -425,9 +441,9 @@ Note:  Only 12% say "no".  That speaks volumes to me.
 <!--s-->
 
 <!-- .slide: class="chartSlide" id="surveySlides" -->
-Do you think discussing a health issue with your employer would have negative consequences?
+Do you think discussing a health issue with your employer would have negative consequences? (2016)
 
-<img class="chart" data-src="./img/employer_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/Consequnces.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note: Over 5x more think that there would _definitely_ be negative consequences
 
@@ -436,13 +452,23 @@ Note: Over 5x more think that there would _definitely_ be negative consequences
 <!-- .slide: class="chartSlide" -->
 Have you been diagnosed with a mental health condition?
 
-<img class="chart" data-src="./img/diagnosed_chart.png" border="none"> <!-- .element: class="fragment chart" -->
+<img class="chart" data-src="./img/EverDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
 
 Note:  
 - This is self reported
 - Average is around 20%
-- 1500 responses
--
+- 800 responses
+<!--s-->
+
+<!-- .slide: class="chartSlide" -->
+Do you _Think_ you have a mental health condition?
+
+<img class="chart" data-src="./img/ThinkDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
+
+Note:  
+- This is self reported
+- Average is around 20%
+- 800 responses
 <!--s-->
 
 ## As of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
