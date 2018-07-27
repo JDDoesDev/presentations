@@ -12,7 +12,7 @@ J.D. Flynn, Drupal Technical Architect at Genuine Interactive
 
 @JDDoesDev • D.O: Dorficus • Slack(s): Dorf
 
-WordCamp Chicago • #WCCHI • #OSMI
+PHPDetroit • #PHPDet18 • #OSMI
 
 Note:
 Welcome everyone!  Thank you for being here and taking part!
@@ -550,7 +550,7 @@ Especially in open source communities
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
 
-## *__50%__* of survey respondents claimed mental illness diagnoses
+## *__43%__* of survey respondents claimed mental illness diagnoses
 
 Note: So what does that mean?
 
