@@ -469,6 +469,7 @@ Note:
 - This is self reported
 - Average is around 20%
 - 800 responses
+- includes people who answered yes to diagnosed
 <!--s-->
 
 ## As of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
@@ -537,6 +538,9 @@ Note: mention the exit interview and sending a link to OSMI
 ## http://bit.ly/osmi-books <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:  Not trying to sell anything, but the books are DRM free and extremely useful
+ - Mental Health in Tech: Guidelines for Mental Wellness in the Workplace
+ - Mental Health in Tech: Guidelines for Executives and HR Professionals
+ - Mental Health in Tech: Guidelines for Employees
 
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
