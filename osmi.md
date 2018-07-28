@@ -2,7 +2,7 @@
 title: Erasing the Stigma
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: osmi
+theme: theme/osmi.css
 ---
 
 # ERASING THE STIGMA
@@ -10,7 +10,7 @@ theme: osmi
 
 J.D. Flynn, Drupal Technical Architect at Genuine Interactive
 
-@JDDoesDev • D.O: Dorficus • Slack(s): Dorf
+@JDDoesDev • Slack(s): Dorf
 
 PHPDetroit • #PHPDet18 • #OSMI
 
@@ -541,6 +541,12 @@ Note:  Not trying to sell anything, but the books are DRM free and extremely use
  - Mental Health in Tech: Guidelines for Mental Wellness in the Workplace
  - Mental Health in Tech: Guidelines for Executives and HR Professionals
  - Mental Health in Tech: Guidelines for Employees
+<!--s-->
+
+## Take the OSMI 2017 Survey
+
+## https://osmihelp.org/research <!-- .element: class="fragment" data-fragment-index="1" -->
+
 
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
