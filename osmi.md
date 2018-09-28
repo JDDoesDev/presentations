@@ -12,7 +12,7 @@ J.D. Flynn, Drupal Technical Architect at Genuine Interactive
 
 @JDDoesDev • Slack(s): Dorf
 
-PHPDetroit • #PHPDet18 • #OSMI
+DrupalCorn • #DrupalCorn2018 • #OSMI
 
 Note:
 Welcome everyone!  Thank you for being here and taking part!
@@ -51,10 +51,9 @@ Note:
 There are a reasons I do this talk.
 - If there was one sentence for what I want to accomplish with this session, it's "Start the conversation"
 - Why?  People don't want to talk about mental illness.
-  - Luke anecdote: Used to sweep diseases under the rug
 - Share some resources and statistics
 - Share some experiences, both personal and professional
-- Paramedic for 10 years, EMT and firefighter before that
+  - Paramedic for 10 years, EMT and firefighter before that
 - I've seen firsthand what untreated mental illness can do
 
 <!--s-->
@@ -94,10 +93,11 @@ Note:
 - As I mentioned, I have mental illness
 - I suffered in silence
   - For a very long time I was in denial.  I was afraid that admitting I had an illness would make it real
-  - Also victim of the stigma.  i thought mental illness meant someone was just not right and i didn't want to be not right
+  - Also victim of the stigma.  i thought mental illness meant someone was damaged or defective and i didn't want to be either
 - Perfect health until doctor tells you otherwise
-- I worried that if I told people they'll treat me differently
-- Social distancing: In particular, when people feel that an individual with mental illness is dangerous, that results in fear and increased social distance.  Leads to increased anxiety and isolation in the individual.
+- I worried that if I told people they would treat me differently
+- Social distancing, a fancy term for a very un-fancy cycle
+  -  In particular, when people feel that an individual with mental illness is dangerous, that results in fear and increased social distance.  Leads to increased anxiety and isolation in the individual.
 
 fragment - Something that I often need to tell myself
 
@@ -130,7 +130,7 @@ Note:
 - PTSD: A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
   - Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
 - ADHD disorder that is characterized by varying degrees of hyperactivity, impulsivity, and/or inattention that lead to difficulty in academic, emotional, and social functioning.
-  - When I was a kid, this was often looked at as "just being a kid"
+  - When I was a kid, this was often looked at as being a bit odd or just needing to burn off some energy
 
 What Changed?
 
@@ -140,7 +140,7 @@ What Changed?
 
 Note:
 - The first thing was the hardest. I saw other people living happy lives and not going through the same things I was.
-- People didn't get as angry as I did as easily as I did.  
+- People didn't get as upset or angry about things the way that I did
 - People weren't affected by everyday things like I was and I had an epiphany that maybe everything else wasn't the issue. Maybe it was me?
   - if everywhere you go smells like dog crap, maybe you should look at your own shoes
 - For a lot of people (including myself) this is the hardest part
@@ -155,7 +155,10 @@ Note:
 - I take medication
   - Better living through chemistry
 - I see a therapist
-- I find outlets. Mention community band, becoming active in the community through teaching and in the drupal community
+- I find outlets. 
+  - Mention Windiana and MCMB 
+  - active in the Drupal community
+  - Bought a coffee shop?
 - I start the conversation
 
 Mention not being shy about talking about it.
@@ -169,8 +172,6 @@ If other people are uncomfortable about it, that's their problem.  Mention somet
 
 Note:
 - In a word, difficult.  
-- Paranoid about everything
-- Afraid to see a therapist because I thought only crazy people saw therapists (I know... i was ignorant).
 - Deep, deep valleys
 - Felt useless
 - Unable to function
@@ -186,6 +187,8 @@ Note:
 ### Constantly afraid
 
 Note:  Also mention:
+- Afraid to see a therapist because I thought only crazy people saw therapists (I know... i was ignorant).
+- Paranoid about everything
 - crippling fear of everyday things
 - Social situations were paralyzing
 - canceled plans a lot
@@ -214,6 +217,7 @@ Note:
 - I was not a happy person and anything could set me off
 - Mix of high stress job (ambulance) and untreated anxiety and depression were not a good combination
   - and, like many people in public service, I was too proud to admit something was wrong
+  - Unlike too many people in PS, I sought treatment
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -237,6 +241,7 @@ Note:
 - My anxiety has gone down, but still rears its ugly head occasionally
 - Since getting on medication and seeing a therapist,
   - I've become more comfortable in social situations,
+    - I run a coffee shop with many, many customers
   - still introverted,
   - I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing normal things
 - I am not as afraid of losing my job because of being unable to focus
@@ -245,7 +250,7 @@ Note:
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
 
-# I'M NOT ALONE / WE'RE NOT ALONE
+# WE'RE NOT ALONE
 
 Note:
 - Since getting diagnosed and erasing stigma from myself I've realized I'm not alone
@@ -284,15 +289,6 @@ Note:  Let's change it up a bit and ask some more questions
 <!-- .slide: data-background-color="#675b53" -->
 
 ## Who here has taken a sick day?
-
-<!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-
-## Who has been afraid to call off for injuries or infections?
-
-Note:
-- Injuries - broken bones, etc.
-- Infections - Flu, cough, cold, etc.
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -338,7 +334,7 @@ Note:
 Note:
 - You're not trying hard enough
 - Personally, I can vouch for the effects of medication
-  - Sure, there are a few side effects, but the benefits greatly outweigh the side effects
+  - Everyone is different and what works for me may not work for the next person
 
 <!--s-->
 
@@ -348,6 +344,7 @@ Note:
 Note:
 - Remember those questions earlier?
 <!--s-->
+
 ## What if people with physical health problems were treated the way people with mental health problems were treated?
 
 <!--s-->
@@ -527,15 +524,31 @@ Note:
 - HR didn't want to hear
 <!--s-->
 
-## Fight ignorance with information
-
-Note: mention the exit interview and sending a link to OSMI
+# So what can we do?
 
 <!--s-->
 
+## Take the OSMI 2018 Survey
+
+## https://osmihelp.org/research
+
+<!--s-->
+
+## Fight ignorance with information
+
+Note: mention the exit interview and sending a link to OSMI
+- Mental Health First Aid class - great for HR, managers, or anyone
+
+<!--s-->
+
+## Take the OSMI 2018 Survey
+
+## https://osmihelp.org/research
+
+<!--s-->
 ## Get the OSMI handbooks
 
-## http://bit.ly/osmi-books <!-- .element: class="fragment" data-fragment-index="1" -->
+## http://bit.ly/osmi-books
 
 Note:  Not trying to sell anything, but the books are DRM free and extremely useful
  - Mental Health in Tech: Guidelines for Mental Wellness in the Workplace
@@ -543,10 +556,9 @@ Note:  Not trying to sell anything, but the books are DRM free and extremely use
  - Mental Health in Tech: Guidelines for Employees
 <!--s-->
 
-## Take the OSMI 2017 Survey
+## Seriously, Take the OSMI 2018 Survey
 
-## https://osmihelp.org/research <!-- .element: class="fragment" data-fragment-index="1" -->
-
+## https://osmihelp.org/research
 
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
