@@ -30,34 +30,25 @@ __FRAGMENT__
 - I also have mental illnesses
 
 And my goal is to talk with you about...
-
 <!--s-->
+
 # ERASING THE STIGMA
 ## MENTAL ILLNESS IN TECH
 
-J.D. Flynn, Drupal Technical Architect at Genuine
+J.D. Flynn
 
-@JDDoesDev • Slack(s): Dorf
-
-BadCamp • #BadCamp18 • #OSMI
-
-Note:
-Welcome everyone!  Thank you for being here and taking part!
-
+@JDDoesDev #OSMI
 
 <!--s-->
-
-### Disclaimers:
+### Disclaimer:
 ## NOT a doctor<!-- .element: class="fragment" -->
-## Possible naughty language<!-- .element: class="fragment" -->
 
 Note:
-- Disclaimer:  I'm not a mental health professional nor am I here to give medical advice
+- Disclaimer:  I'm not a mental or medical health professional nor am I here to give medical advice
 - I am someone with mental illnesses - plural
-- I've experienced difficulties in the workplace and in my personal life because of my mental illnesses
+  - Here to talk with us about us
+- I've experienced difficulties in both my personal and professional life because of my mental illnesses
 - I was in denial for a very long time
-- I also tend to swear without thinking about it... sorry
-
 
 <!--s-->
 <!-- .slide: data-background-color="#888f79" -->
@@ -65,12 +56,9 @@ Note:
 # WHY TALK ABOUT THIS?
 
 Note:
-There are a reasons I do this talk.
-- If there was one sentence for what I want to accomplish with this session, it's "Start the conversation"
-    - Why?  People don't want to talk about mental illness.
+- For one, to start the conversation.
+  - Why?  People don't want to talk about mental illness.
 - Share some resources and statistics
-- Share some experiences, both personal and professional
-  - Paramedic for 10 years, EMT and firefighter before that
 - I've seen firsthand what untreated mental illness can do
 
 <!--s-->
@@ -90,15 +78,15 @@ But above all else...
 
 Note:
 - The conversation needs to be started
-- The stigma needs to be erased and the first step is opening up the conversation
-- And you people are here.  You're taking the right steps.  Even if you don't have mental illness yourself, thank you!
+- The stigma needs to be erased and the first step is starting the conversation.
+  - This is why I'm here today
 
 <!--s-->
 
 ## WHY SHOULD THIS BE IMPORTANT TO YOU?
 
 Note:
-Approximately 20% of adults in the US experience mental illness in a given year - NAMI.org
+1 in 5 adults in the US experience mental illness in a given year - NAMI.org
 We're going to find out later, that number is higher in the tech community.
 
 <!--s-->
@@ -117,20 +105,6 @@ Note:
 fragment - Something that I often need to tell myself
 
 <!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-## ABOUT YOU
-
-### AKA Unexpected audience participation
-
-Note:
-You're going to learn a lot about me, so I'd like to learn a little about you
-- How many of you are developers or here to learn development, themers, site builders, designers, or anything directly related to making sites?
-- How many of you are project managers, owners, or account managers or similar
-- How many of you are in HR?
-  - I'm going to give HR a hard time, but I do understand they have a hard job
-- How many of you are in upper management? Managers, Presidents, CEOs, etc.
-
-<!--s-->
 
 # WHAT IS MENTAL ILLNESS?
 
@@ -147,22 +121,20 @@ Note:
 - ADHD <!-- .element: class="fragment" -->
 
 Note:
-- Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
-- Anxiety: A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
-- PTSD: A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
-  - Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+- Clinical depression is marked by a depressed mood most of the day, sometimes particularly in the morning, and a loss of interest in normal activities and relationships -- symptoms that are present every day for at least 2 weeks - WebMD
+- Anxiety: A mental health disorder characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with one's daily activities - Mayo Clinic
+- PTSD: A disorder characterized by failure to recover after experiencing or witnessing a terrifying event - Mayo Clinic
 - ADHD disorder that is characterized by varying degrees of hyperactivity, impulsivity, and/or inattention that lead to difficulty in academic, emotional, and social functioning.
   - When I was a kid, this was often looked at as being a bit odd or just needing to burn off some energy
 
-What Changed?
+But I wasn't always diagnosed, so what changed?
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 ## I accepted something was wrong
 
 Note:
-- The first thing was the hardest. I saw other people living happy lives and not going through the same things I was.
-- People didn't get as upset or angry about things the way that I did
+- The first step was the hardest.
 - People weren't affected by everyday things like I was and I had an epiphany that maybe everything else wasn't the issue. Maybe it was me?
   - if everywhere you go smells like dog crap, maybe you should look at your own shoes
 - For a lot of people (including myself) this is the hardest part
@@ -174,18 +146,13 @@ Note:
 # I GOT TREATMENT
 
 Note:
+- I go to therapy
 - I take medication
   - Better living through chemistry
-- I see a therapist
-- I find outlets. 
-  - Mention Windiana and MCMB 
-  - active in the Drupal community
-  - Bought a coffee shop?
+- I find creative outlets. 
 - I start the conversation
 
-Mention not being shy about talking about it.
-People don't need to know the details of your PTSD, but that you're not afraid to mention it in social situations.
-If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
+I'm not shy about talking about it.  If someone wants to take issue with it, then that's on them.
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -194,6 +161,7 @@ If other people are uncomfortable about it, that's their problem.  Mention somet
 
 Note:
 - In a word, difficult.  
+
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -217,10 +185,7 @@ Note:  Also mention:
 
 Note:
 - i was alone because i canceled plans and made myself alone
-- Feel alone in crowded spaces
-  - self imposed isolation
 - Always feel like people are looking at me for any flaws
-- Example:  On the train i hope nobody sits next to me, but i wonder what's wrong with me when nobody sits next to me
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -231,7 +196,7 @@ Note:
 - I was not a happy person and anything could set me off
 - Mix of high stress job (ambulance) and untreated anxiety and depression were not a good combination
   - and, like many people in public service, I was too proud to admit something was wrong
-  - Unlike too many people in PS, I sought treatment
+  - Unlike too many people, I sought treatment
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -241,7 +206,6 @@ Note:
 
 Note:
 - People often thought I was angry when I was terrified or just trying not to screw up
-  - wedding example - "you look like you might kill everyone in this room"
 
 <!--s-->
 
@@ -249,13 +213,11 @@ Note:
 
 Note:
 - I'm not ashamed of who I am
-  - Before, I wanted to hide in shame because of who I am and my conditions.  I've since realized that it's just part of me.  not too proud to admit i need help anymore
 - The valleys aren't as deep
   - Not to say they aren't around anymore or that I don't have deep valleys, but they are much less frequent than before.
 - My anxiety has gone down, but still rears its ugly head occasionally
 - Since getting on medication and seeing a therapist,
   - I've become more comfortable in social situations,
-    - I run a coffee shop with many, many customers
   - still introverted,
   - I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing normal things
 - I am not as afraid of losing my job because of being unable to focus
@@ -267,7 +229,7 @@ Note:
 # WE'RE NOT ALONE
 
 Note:
-- Since getting diagnosed and erasing stigma from myself I've realized I'm not alone
+- Since getting treatment and getting past my own stigmas I've realized I'm not alone
 - I realized that I was afraid because of the way people viewed me
 - I don't feel that way anymore because of organizations like OSMI
 
@@ -280,8 +242,6 @@ Although it was suspected that there was a higher incidence of mental illness in
 
 Studies have shown an increased incidence of mental illness, specifically anxiety and depression, in people with above average IQs.  Suggests intelligent people with "hyper brains" are more reactive to environmental stimulus and that “may predispose them to certain psychological disorders as well as physiological conditions involving elevated sensory and altered immune and inflammatory responses".
 
-<!--s-->
-
 ## IMPOSTER SYNDROME
 - The feeling that you don't deserve to be doing what you're doing
 - Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
@@ -289,13 +249,7 @@ Studies have shown an increased incidence of mental illness, specifically anxiet
 
 <!--s-->
 
-## More unexpected audience participation!
-Note:  Let's change it up a bit and ask some more questions
-
-<!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-
-## Who here has taken a sick day?
+## Question Time
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -305,26 +259,23 @@ Note:  Let's change it up a bit and ask some more questions
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
+## Who has ever told someone with diabetes or a heart condition to stop taking their medicine?
+
+<!--s-->
+<!-- .slide: data-background-color="#675b53" -->
+
 ## Who has ever asked someone in a wheelchair if they really need the help?
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Who has ever told someone with diabetes or a heart condition to stop taking their medicine?
-
+## Now replace every injury or disease in those questions with a mental illness
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
 ### Images like this
 
 <img class="chart" data-src="./img/bs-antidepressant.jpg" border="none">
-
-<!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-
-### This...
-
-<img class="chart" data-src="./img/pills.jpg" border="none">
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -340,10 +291,9 @@ Note:  Let's change it up a bit and ask some more questions
 
 Note:
 - You're not trying hard enough
-- You don't need help
-- It something you can snap out of
-- Personally, I can vouch for the effects of medication
+- Personally, I can vouch for the effects of medication for me
   - Everyone is different and what works for me may not work for the next person
+  - I don't shame anyone for taking a different path to health than me
 
 <!--s-->
 
@@ -354,18 +304,10 @@ Note:
 - Remember those questions earlier?
 <!--s-->
 
-## What if people with physical health problems were treated the way people with mental health problems were treated?
-
-<!--s-->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bor9xVnbIz8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<!--s-->
-
 ## So how do we Erase the Stigma?
 
 Note:
-We need to be.
+We need to be...
 
 <!--s-->
 
@@ -378,11 +320,9 @@ Note:
 - If someone trusts you enough to talk about their mental health, listen.  
 - Let people know they matter
 - As someone with a disability, hearing an affirmation can do amazing things
-  - Ambulance anecdote
 - Don't be ashamed
 - If you have a mental illness, you're not damaged; you have a disease
 - Be respectful
-  - You can't always tell who has a disability.  Try to be respectful of what you say or how you portray diseases.
 - If you do feel that you have a disease, get treatment!
 <!--s-->
 
@@ -390,7 +330,6 @@ Note:
 
 Note: 
 My anecdotes are one thing, but how are employees and employers affected?
-Well, let's take a quick look at some statistics.
 
 <!--s-->
 
@@ -410,7 +349,7 @@ Note: This survey was done by OSMI and had approximately 800 responses.  The sur
 <!-- .slide: class="chartSlide" -->
 Would you bring up a _PHYSICAL_ health issue with a potential employer at an interview?
 
-<img class="chart" data-src="./img/PhysicalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/PhysicalInterview.png" border="none"> 
 
 Note: Almost twice as many say "NO"
 <!--s-->
@@ -418,73 +357,43 @@ Note: Almost twice as many say "NO"
 <!-- .slide: class="chartSlide" -->
 Would you bring up a _MENTAL_ health issue with a potential employer at an interview?
 
-<img class="chart" data-src="./img/MentalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/MentalInterview.png" border="none"> 
 
 Note: Almost twice as many say "NO"
-<!--s-->
-
-<!-- .slide: class="chartSlide" -->
-Does your employer provide resources to learn more about mental health issues and how to seek help?
-
-<img class="chart" data-src="./img/EmployerResources.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
-
-Note: Only 30% can say with any certainty that they know there are resources, but the highest percentage says no.  Does not include insurance coverage.
-
-<!--s-->
-
-<!-- .slide: class="chartSlide" -->
-Does your employer provide mental health benefits as part of healthcare coverage?
-
-<img class="chart" data-src="./img/BenefitsAsCoverage.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 <!--s-->
 
 <!-- .slide: class="chartSlide" -->
 Do you feel that being identified as a person with a mental health issue would hurt your career? (2016)
 
-<img class="chart" data-src="./img/HurtCareer.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/HurtCareer.png" border="none"> 
 
-Note:  Only 12% say "no".  That speaks volumes to me.
+Note: Only 12% say "no".  That speaks volumes to me.
 - This is something I worry about every time I give this talk, but it is kind of freeing knowing that all my cards are on the table
 
 <!--s-->
-
-<!-- .slide: class="chartSlide" id="surveySlides" -->
-Do you think discussing a health issue with your employer would have negative consequences? (2016)
-
-<img class="chart" data-src="./img/Consequnces.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
-
-Note: Over 5x more think that there would _definitely_ be negative consequences
-
-<!--s-->
-
 <!-- .slide: class="chartSlide" -->
 Have you been diagnosed with a mental health condition?
 
-<img class="chart" data-src="./img/EverDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
+<img class="chart" data-src="./img/EverDiagnosed.png" border="none">
 
 Note:  
 - This is self reported
 - Average is around 20%
 - 800 responses
 <!--s-->
+## As of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
 
-<!-- .slide: class="chartSlide" -->
-Do you _Think_ you have a mental health condition?
+Note:
+"In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with any mental illness within the past year. This number represented 17.9% of all U.S. adults." - National Institute of Mental Health
 
-<img class="chart" data-src="./img/ThinkDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
+- AMI - Any mental illness
 
-Note:  
-- This is self reported
-- Average is around 20%
-- 800 responses
-- includes people who answered yes to diagnosed
 
 <!--s-->
 <!-- .slide: data-background-color="#888f79" -->
 
-## All of these charts lead me to one conclusion
-
+## What do these figures mean?
 <!--s-->
 <!-- .slide: data-background-color="#360101" -->
 
@@ -501,27 +410,16 @@ Note:
 
 For many of us, this means suffering in silence
 
-Note:  Possible anecdote about recent situation at old job.
+Note:  
 - We're afraid coworkers will change their opinion of us
-- Especially as someone with anxiety, worrying what people think can drive you mad
+- Especially as someone with anxiety, worrying what people think can really affect you
 - Some of our minds go straight to the worst case scenario
-- Mention email of "we need to talk" on 89th day of 90 day probation and "password incorrect" email error
-- Binary mind
+
 <!--s-->
 
 ## We're afraid we might get sent to the ~~principal's&nbsp;office~~ HR Department
 
 Note: Mention how it took you a lot to build up the courage to tell your bosses about your illness only to get a call from HR.  From people you deal with every day to someone who might as well be a stranger.
-
-<!--s-->
-
-## As of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
-
-Note:
-"In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with any mental illness within the past year. This number represented 17.9% of all U.S. adults." - National Institute of Mental Health
-
-- AMI - Any mental illness
-
 
 <!--s-->
 
@@ -531,25 +429,9 @@ Note:
 - depression alone impacts an estimated 9.5 percent of the American adult population. 
 - estimated to cause 200 million lost work days each year 
   -  costing employers up to $44 billion annually
-
-<!--s-->
-
-## How can we mitigate this?
-
-Note:
-Well, how do you eat an elephant?  One bite at a time.
-- If a workplace is prepared and educated to deal with this particular disability, an employee may feel more comfortable being open about it if they need time off.
-- I had times when I would show up and do nothing for days, but still log time, because I was afraid of going to my boss.
-- Can't say for sure, but if I had felt comfortable saying "Hey, I need a day/afternoon" I could have recharged a bit and possibly not have wasted so much time.
 <!--s-->
 
 # So what can we do?
-
-<!--s-->
-
-## Take the OSMI 2018 Survey
-
-## https://osmihelp.org/research
 
 <!--s-->
 
@@ -557,12 +439,6 @@ Well, how do you eat an elephant?  One bite at a time.
 
 Note: mention the exit interview and sending a link to OSMI
 - Mental Health First Aid class - great for HR, managers, or anyone
-
-<!--s-->
-
-## Take the OSMI 2018 Survey
-
-## https://osmihelp.org/research
 
 <!--s-->
 ## Get the OSMI handbooks
@@ -574,15 +450,9 @@ Note:  Not trying to sell anything, but the books are DRM free and extremely use
  - Mental Health in Tech: Guidelines for Executives and HR Professionals
  - Mental Health in Tech: Guidelines for Employees
 <!--s-->
-
-## Seriously, Take the OSMI 2018 Survey
-
-## https://osmihelp.org/research
-
-<!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
 
-## In open source tech, community is our greatest resource
+## In tech and development, community is our greatest resource
 
 Note:
 Time to bring it home --
@@ -603,22 +473,6 @@ Note: So what does that mean?
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
 
-# We are more than usernames
-
-Note:
-Something that events like this help remind us of
-
-<!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
-# We are real people
-
-Note:
-Look around.  We're not 1s and 0s.  We're actually here interacting
-
-<!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
 # We are not damaged
 
 Note: And with a little work, together we can....
@@ -626,6 +480,12 @@ Note: And with a little work, together we can....
 <!--s-->
 
 # Erase the stigma
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
+
+Note: and become
+<!--s-->
+
+# Stronger than Fear
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
 <!--s-->
@@ -640,29 +500,6 @@ Note: And with a little work, together we can....
 <!--s-->
 
 ## Thank you for listening
-
-<!--s-->
-
-## Thanks for supporting me
-
-- Steven Richardson
-- Avi Schwab
-- Doug Kiff
-- Mike Miles
-- Justin Tulk
-- Bob Shell
-
-Note:
-- These people have donated to help me cover travel expenses so that I can do these talks.
-- Work has given me time off to attend, which is more than enough from them.
-
-
-<!--s-->
-
-### Survey at http://bit.ly/jdf-survey
-
-<img class="chart" data-src="./img/qrcode.png" border="none">
-
 
 <!--s-->
 
