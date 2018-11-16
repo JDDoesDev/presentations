@@ -39,7 +39,7 @@ J.D. Flynn, Drupal Technical Architect at Genuine
 
 @JDDoesDev • Slack(s): Dorf
 
-BadCamp • #BadCamp18 • #OSMI
+NEDCamp • #NEDCamp18 • #OSMI
 
 Note:
 Welcome everyone!  Thank you for being here and taking part!
@@ -640,22 +640,6 @@ Note: And with a little work, together we can....
 <!--s-->
 
 ## Thank you for listening
-
-<!--s-->
-
-## Thanks for supporting me
-
-- Steven Richardson
-- Avi Schwab
-- Doug Kiff
-- Mike Miles
-- Justin Tulk
-- Bob Shell
-
-Note:
-- These people have donated to help me cover travel expenses so that I can do these talks.
-- Work has given me time off to attend, which is more than enough from them.
-
 
 <!--s-->
 
