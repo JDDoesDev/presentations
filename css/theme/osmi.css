@@ -307,3 +307,8 @@ body {
   opacity: 1;
   display: inline;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+}

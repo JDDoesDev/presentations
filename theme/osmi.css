@@ -16,7 +16,8 @@ body {
 .different {
   background-color: blue;
 }
-.reveal {
+.reveal,
+footer {
   font-family: "Open Sans", sans-serif;
   font-size: 40px;
   font-weight: normal;
@@ -296,4 +297,32 @@ body {
   box-shadow: none;
   margin:auto;
   height: 12.5em;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 2em;
+  font-size: 1.5em;
+  width: 100%;
+}
+
+footer .left {
+  display: block;
+  float: left;
+  margin-left: 100px;
+}
+
+footer .right {
+  display: block;
+  float: right;
+  margin-right: 100px;
+}
+
+iframe footer {
+  display: none;
+}
+
+.reveal p {
+  font-size: 25px;
 }
