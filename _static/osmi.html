@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Erasing the Stigma</title>
+    <link rel="stylesheet" href="./css/reveal.css" />
+    <link rel="stylesheet" href="./_assets/theme/osmi.css" id="theme" />
+    <link rel="stylesheet" href="./css/highlight/zenburn.css" />
+    <link rel="stylesheet" href="./css/print/paper.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="./_assets/theme/osmi.css" />
+
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template">
+
+### ERASING THE STIGMA
+## MENTAL ILLNESS IN TECH
+
+J.D. Flynn, Drupal Technical Architect at Genuine
+
+@JDDoesDev • Slack(s): Dorf • D.O: Dorficus
+
+DrupalCon • #DrupalCon • #OSMI
+
+<aside class="notes"><ul>
+<li>Welcome everyone!</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+# Hello!
+
+<aside class="notes"><ul>
+<li>I find it best to start off with a big friendly greeting.</li>
+<li>Thanks</li>
+<li>Not me talking to you</li>
+<li>Conversation: me + you about us</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## who the heck is this guy?
+### OH YEAH, I HAVE MENTAL ILLNESSES<!-- .element: class="fragment" -->
+
+<aside class="notes"><p>You may be asking yourself, who is this random person?</p>
+<ul>
+<li>Drupal/PHP Developer for 6 years</li>
+<li>Doing HTML since the 90s</li>
+<li>MidCamp Organizer</li>
+<li>Drupal Chicago Meetup Organizer</li>
+<li>Paramedic/EMT/firefighter for 10 years</li>
+</ul>
+<p><strong>FRAGMENT</strong></p>
+<ul>
+<li>I also have mental illnesses</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+### Disclaimers:
+## NOT a doctor<!-- .element: class="fragment" -->
+## Possible naughty language<!-- .element: class="fragment" -->
+
+<aside class="notes"><ul>
+<li>Disclaimer:  I&#39;m not a mental health professional nor am I here to give medical advice</li>
+<li>I am someone with mental illnesses - plural</li>
+<li>I also tend to swear without thinking about it... sorry</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#888f79" -->
+
+## WHY TALK ABOUT THIS?
+
+<aside class="notes"><p>There are a few reasons I do this talk.</p>
+<ul>
+<li>&quot;Start the conversation&quot;<ul>
+<li>How many of you are comfortable talking about mental illness?</li>
+<li>What do most people think of the mentally ill? They’re dangerous. They&#39;re unstable. They&#39;re weak.</li>
+</ul>
+</li>
+<li>Share some resources and statistics</li>
+<li>Share some experiences, both personal and professional</li>
+<li>I&#39;ve seen firsthand what untreated mental illness can do</li>
+</ul>
+<p>Also, to help people realize...</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#888f79" -->
+
+# WE'RE NOT ALONE
+
+<aside class="notes"><ul>
+<li>Nobody is the only one going through this<ul>
+<li>May have different variables, but the interface is the same</li>
+</ul>
+</li>
+<li>I&#39;m still having a hard time dealing with this fact</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#888f79" -->
+
+# **IT NEEDS TO BE TALKED ABOUT**
+
+<aside class="notes"><ul>
+<li>I want you to be comfortable having a conversation</li>
+<li>Take away the fear and stigma by talking</li>
+<li>And you people are here.  You&#39;re taking the right steps.  Even if you don&#39;t have mental illness yourself, thank you!</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## WHY SHOULD THIS BE IMPORTANT TO YOU?
+
+<aside class="notes"><ul>
+<li>Because we&#39;re human</li>
+<li>20% of US adults experience MI in a year</li>
+<li>We&#39;ll find out later it&#39;s much higher in the tech community</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## WHY IS THIS IMPORTANT TO ME?
+### _**I'm not weak; I'm sick**_ <!-- .element: class="fragment" -->
+
+<aside class="notes"><ul>
+<li>As I mentioned, I have mental illness</li>
+<li>I suffered in silence<ul>
+<li>For a very long time I was in denial.</li>
+<li>Guilty of the stigma.</li>
+<li>i thought mental illness meant someone was damaged or defective and i didn&#39;t want to be either</li>
+</ul>
+</li>
+<li>I worried that if I told people how i felt, they&#39;d leave me</li>
+</ul>
+<p>fragment - Something that I often need to tell myself.  Not defective or damaged, I have a disease.  It&#39;s a disorder, not a decision.</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+## ABOUT YOU
+
+### AKA Unexpected audience participation
+
+<aside class="notes"><p>You&#39;re going to learn a lot about me, so I&#39;d like to learn a little about you</p>
+<ul>
+<li>How many of you are developers or here to learn development, themers, site builders, designers, or anything directly related to making sites?</li>
+<li>How many of you are project managers, owners, or account managers or similar</li>
+<li>How many of you are in HR?<ul>
+<li>I&#39;m going to give HR a hard time, but I do understand they have a hard job</li>
+</ul>
+</li>
+<li>How many of you are in upper management? Managers, Presidents, CEOs, etc.</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+# WHAT IS MENTAL ILLNESS?
+
+<aside class="notes"><ul>
+<li>Mental illness refers to a wide range of mental health conditions — disorders that affect your mood, thinking and behavior. - Mayo Clinic</li>
+<li>DSM 5 -- latest version</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#360101" -->
+
+### TIME TO GET UNCOMFORTABLY PERSONAL
+- Major Depression <!-- .element: class="fragment" -->
+- Anxiety Disorder <!-- .element: class="fragment" -->
+- PTSD <!-- .element: class="fragment" -->
+- ADHD <!-- .element: class="fragment" -->
+
+<aside class="notes"><ul>
+<li>Clinical Depression: feelings of low self-worth or guilt and a reduced ability to enjoy life.<ul>
+<li>symptoms that are present <em>every day</em> for at <em>least 2 weeks</em> - WebMD</li>
+</ul>
+</li>
+<li>Anxiety: characterized by feelings of worry or fear that are strong enough to interfere with daily activities - Mayo Clinic<ul>
+<li>Amygdala - lizard brain - fight || flight, feed || breed</li>
+</ul>
+</li>
+<li>PTSD: failure to recover after experiencing or witnessing a terrifying event - Mayo Clinic<ul>
+<li>Give the &quot;RAM v HDD&quot; metaphor</li>
+</ul>
+</li>
+<li>ADHD: varying degrees of hyperactivity, impulsivity, and/or inattention that lead to difficulty in academic, emotional, and social functioning.<ul>
+<li>When I was a kid, this was often looked at as being a bit odd or just needing to burn off some energy</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Difficult <!-- .element: class="fragment" -->
+
+<aside class="notes"><ul>
+<li>Let me summarize: difficult.</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Afraid
+
+<aside class="notes"><p>Also mention:</p>
+<ul>
+<li>Paranoid about everything</li>
+<li>crippling fear of everyday things</li>
+<li>Social situations were paralyzing</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Angry
+<img class="chart" data-src="./img/lizard.gif" border="none"><!-- .element: class="fragment" -->
+
+<aside class="notes"><ul>
+<li>I was not a happy person and anything could set me off<ul>
+<li>That lizard brain!</li>
+<li>What does a lizard do when it&#39;s scared?</li>
+</ul>
+</li>
+<li>Mix of high stress job (ambulance) and untreated anxiety and depression were not a good combination<ul>
+<li>Like many people in public service, I was too proud to admit something was wrong</li>
+<li>Unlike too many people in PS, I sought treatment</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Alone
+
+<aside class="notes"><ul>
+<li>i was alone because i canceled plans and made myself alone</li>
+<li>Feel alone in crowded spaces<ul>
+<li>self imposed isolation</li>
+</ul>
+</li>
+<li>Always feel like people are looking at me for any flaws</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Misunderstood
+
+<aside class="notes"><ul>
+<li>People often thought I was angry when I was terrified or just trying not to screw up</li>
+<li>Easier to lash out than let people know there&#39;s something wrong</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+## I accepted something was wrong
+
+<aside class="notes"><ul>
+<li>The first thing was the hardest. I saw other people living happy lives and not going through the same things I was.</li>
+<li>People didn&#39;t get as upset or angry about things the way that I did</li>
+<li>People weren&#39;t affected by everyday things like I was and I had an epiphany that maybe everything else wasn&#39;t the issue. Maybe it was me?<ul>
+<li>if everywhere you go smells like dog crap, maybe you should look at your own shoes</li>
+</ul>
+</li>
+<li>For a lot of people (including myself) this is the hardest part</li>
+<li>So then...</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+# I GOT TREATMENT
+
+<aside class="notes"><ul>
+<li>Treatment is different for everyone.</li>
+<li>Medication and therapy work for me</li>
+<li>What works for me may not work for you</li>
+<li>YMMV
+Also:</li>
+<li>Not shy about it</li>
+<li>Don&#39;t need to go into details, but not afraid to mention it</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## How has treatment affected me?
+
+<aside class="notes"><ul>
+<li>I&#39;m not ashamed of who I am<ul>
+<li>just part of me.</li>
+<li>not too proud to admit</li>
+</ul>
+</li>
+<li>The valleys easier to cope with<ul>
+<li>Still have valleys, sometimes for days or weeks</li>
+<li>Much more tolerable than they were before</li>
+</ul>
+</li>
+<li>My anxiety has gone down<ul>
+<li>Still have the occasional attack</li>
+</ul>
+</li>
+<li>More comfortable with myself</li>
+<li>Take losses a little better</li>
+<li>I am not as afraid of losing my job because of being unable to focus</li>
+<li>Also, i realize...</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#008e7f" -->
+
+# WE'RE NOT ALONE
+
+<aside class="notes"><p>Said it before, say it again</p>
+<ul>
+<li>Since getting diagnosed and getting past the stigma, realized not alone</li>
+<li>I realized that I was afraid because of the way people viewed me</li>
+<li>I don&#39;t feel that way anymore because of organizations like OSMI</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## WHY TECH SPECIFICALLY?
+
+<aside class="notes"><ul>
+<li>Suspected for a long time</li>
+<li>Creatives appeared to be more prone to depression and anxiety</li>
+<li><p>Sites like devpressed.com (now OSMI forums) and word of mouth were all there were to go on</p>
+</li>
+<li><p>Intelligent and creative people tend to think over situations more than others.</p>
+</li>
+<li>Many people can &quot;let go&quot; of events or not look for cause/event connection</li>
+<li>Creative thinkers tend to re-play events over and over again to better understand them.</li>
+<li>Replaying can lead to feeling depressed or hopeless</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## IMPOSTER SYNDROME
+
+<aside class="notes"><ul>
+<li>The feeling that you don&#39;t deserve to be doing what you&#39;re doing</li>
+<li>Give example of how you deal with it/are dealing with it.  Mention that it&#39;s common with people on FED slack.</li>
+<li>inability to take compliments</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## More unexpected audience participation!
+<aside class="notes"><p>Let&#39;s change it up a bit and ask some more questions</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+## Would you tell someone with glasses or contacts to try looking harder?
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+## Would you ask someone in a wheelchair why they decided not to walk?
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+## Would you tell someone with diabetes or a heart condition to stop taking their medicine and to snap out of it?
+
+<aside class="notes"><p>Pretty silly, right?  Let&#39;s switch it up.</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+### Would you tell someone with ~~glasses or contacts~~ depression to try ~~looking harder~~ being happy?
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+### Would you ask someone in a ~~wheelchair~~ panic attack if they've considered trying harder to ~~walk~~ not have anxiety?
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+### Would you tell someone with ~~diabetes or a heart condition~~ ADHD to stop taking their medicine and to just try ~~being healthy~~ focusing?
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+### Images like this
+
+<img class="chart" data-src="./img/bs-antidepressant.jpg" border="none">
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+### This...
+
+<img class="chart" data-src="./img/pills.jpg" border="none">
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#675b53" -->
+
+### And this...
+
+<img class="chart" data-src="./img/matrix.jpg" border="none">
+
+<aside class="notes"><p>They all say the same thing</p>
+<ul>
+<li>It&#39;s a decision to feel this way</li>
+<li>You don&#39;t need help</li>
+<li>It something you can will yourself out of</li>
+<li>Personally, I can vouch for the effects of medication<ul>
+<li>Everyone is different and what works for me may not work for the next person</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+### Memes go both ways
+<img class="chart" data-src="./img/neuro.jpg" border="none">
+
+</script></section><section  data-markdown><script type="text/template">
+
+## So how do we Erase the Stigma?
+
+<aside class="notes"><p>We need to be.</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+# __STRONGER THAN FEAR__
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
+
+<aside class="notes"><ul>
+<li>What does that mean?<ul>
+<li>Not &quot;beat your fear at arm wrestling&quot;</li>
+</ul>
+</li>
+<li>Start the conversation</li>
+<li>Listen</li>
+<li>Let people know they matter</li>
+<li>Don&#39;t be ashamed</li>
+<li>If you have a mental illness, you&#39;re not damaged; you have a disease</li>
+<li>Be respectful<ul>
+<li>Not all disabilities are visible</li>
+<li>Try to be respectful of what you say or how you portray diseases.</li>
+<li>Sad != depressed, organized != OCD</li>
+</ul>
+</li>
+<li>If you do feel that you have a disease, get treatment!</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## Let's look at some stats
+
+<aside class="notes"><ul>
+<li>Anecdotes are one thing</li>
+<li>We&#39;ve done science!</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
+
+## Mental Health in Tech 2017 Survey Results
+
+[osmihelp.org/research](osmihelp.org/research)
+
+<aside class="notes"><p>This survey was done by OSMI and had approximately 800 responses.  The survey was made available to several different communities.  All responses are self-reported.</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="chartSlide" -->
+Would you bring up a _PHYSICAL_ health issue with a potential employer at an interview?
+
+<img class="chart" data-src="./img/PhysicalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+<aside class="notes"><p>Almost twice as many say &quot;NO&quot;</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="chartSlide" -->
+Would you bring up a _MENTAL_ health issue with a potential employer at an interview?
+
+<img class="chart" data-src="./img/MentalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+<aside class="notes"><p>Almost twice as many say &quot;NO&quot;</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="chartSlide" -->
+Do you feel that being identified as a person with a mental health issue would hurt your career? (2016)
+
+<img class="chart" data-src="./img/HurtCareer.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+<aside class="notes"><p>Only 12% say &quot;no&quot;.  That speaks volumes to me.</p>
+<ul>
+<li>This is something I worry about every time I give this talk, but it is kind of freeing knowing that all my cards are on the table</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="chartSlide" id="surveySlides" -->
+Do you think discussing a health issue with your employer would have negative consequences? (2016)
+
+<img class="chart" data-src="./img/Consequnces.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+<aside class="notes"><p>Over 5x more think that there would <em>definitely</em> be negative consequences</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="chartSlide" -->
+Have you been diagnosed with a mental health condition?
+
+<img class="chart" data-src="./img/EverDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
+
+<aside class="notes"><ul>
+<li>This is self reported</li>
+<li>Average is around 20%</li>
+<li>800 responses</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="chartSlide" -->
+Do you _Think_ you have a mental health condition?
+
+<img class="chart" data-src="./img/ThinkDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
+
+<aside class="notes"><ul>
+<li>This is self reported</li>
+<li>Average is around 20%</li>
+<li>800 responses</li>
+<li>includes people who answered yes to diagnosed</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#888f79" -->
+
+## What do these mean?
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#360101" -->
+
+ ## We're afraid to talk about mental illness
+ ## We're not alone <!-- .element: class="fragment chart" -->
+
+ <aside class="notes"><p>Especially if we&#39;re the ones suffering from it
+ FRAGMENT: It also means</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#360101" -->
+
+## Why are we afraid?  It's because of the stigma.
+
+</script></section><section  data-markdown><script type="text/template">
+
+## We're afraid that being honest will have negative consequences
+
+For many of us, this means suffering in silence
+
+<aside class="notes"><ul>
+<li>We&#39;re afraid people will change their opinion of us</li>
+<li>Especially as someone with anxiety, worrying really can be scary</li>
+<li>Some of our minds go straight to the worst case scenario</li>
+<li>Mention email of &quot;we need to talk&quot; on 89th day of 90 day probation and &quot;password incorrect&quot; email error</li>
+<li>Binary mind</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## We're afraid we might get sent to the ~~principal's&nbsp;office~~ HR Department
+
+<aside class="notes"><ul>
+<li>How many of you talk with HR on a regular basis<ul>
+<li>This could be a good or bad thing</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## In of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
+
+<aside class="notes"><p>&quot;In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with any mental illness within the past year. This number represented 17.9% of all U.S. adults.&quot; - National Institute of Mental Health</p>
+<ul>
+<li>AMI - Any mental illness</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## Why should a workplace care?
+
+<aside class="notes"><ul>
+<li>depression alone impacts an estimated 9.5 percent of the American adult population.</li>
+<li>estimated to cause 200 million lost work days each year<ul>
+<li>costing employers up to $44 billion annually</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## But JD, What can we do?
+
+<aside class="notes"><p>Great question, slide!
+Well, how do you eat an elephant?  One bite at a time.</p>
+<ul>
+<li>If a workplace creates a culture of inclusiveness, an employee may feel more comfortable being open<ul>
+<li>Do very little for days</li>
+<li>Get angry that I couldn&#39;t function</li>
+<li>Get afraid because I wasn&#39;t succeeding</li>
+</ul>
+</li>
+<li>May have felt more comfortable saying &quot;I need a day off&quot;</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## Take the OSMI 2019 Survey
+
+## https://osmihelp.org/research
+
+</script></section><section  data-markdown><script type="text/template">
+
+## Fight ignorance with information
+
+<aside class="notes"><p>mention the exit interview and sending a link to OSMI</p>
+<ul>
+<li>Mental Health First Aid class - great for HR, managers, or anyone</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## Take the OSMI 2019 Survey
+
+## https://osmihelp.org/research
+
+</script></section><section  data-markdown><script type="text/template">
+## Get the OSMI handbooks
+
+## http://bit.ly/osmi-books
+
+<aside class="notes"><p>Not trying to sell anything, but the books are DRM free and extremely useful</p>
+<ul>
+<li>Mental Health in Tech: Guidelines for Mental Wellness in the Workplace</li>
+<li>Mental Health in Tech: Guidelines for Executives and HR Professionals</li>
+<li>Mental Health in Tech: Guidelines for Employees</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+## Seriously, Take the OSMI 2019 Survey
+
+## https://osmihelp.org/research
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#008e7f" -->
+
+## In open source tech, community is our greatest resource
+
+<aside class="notes"><p>Time to bring it home --
+Especially in open source communities</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#008e7f" -->
+
+## *__43%__* of survey respondents claimed mental illness diagnoses
+
+<aside class="notes"><p>So what does that mean?</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#008e7f" -->
+
+# We are not alone
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#008e7f" -->
+
+# We are more than usernames
+
+<aside class="notes"><p>Something that events like this help remind us of</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#008e7f" -->
+
+# We are real people
+
+<aside class="notes"><p>Look around.  We&#39;re not 1s and 0s.  We&#39;re actually here interacting</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-color="#008e7f" -->
+
+# We are not damaged
+
+<aside class="notes"><p>And with a little work, together we can....</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+
+# Erase the stigma
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
+
+</script></section><section  data-markdown><script type="text/template">
+
+#### Some resources available:
+- osmihelp.org
+- Psychologytoday.com
+- National Association on Mental Illness: 1-800-950-NAMI
+- Suicide Lifeline: 1-800-273-8255
+- 911 (or your equivalent)
+
+</script></section><section  data-markdown><script type="text/template">
+
+## Thank you for letting me talk with you
+
+</script></section><section  data-markdown><script type="text/template">
+
+### Feedback
+- Session Survey Available on session node
+- DrupalCon Survey Available at https://www.surveymonkey.com/r/DrupalConSeattle
+
+</script></section><section  data-markdown><script type="text/template">
+
+# Questions?
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background="./img/contrib.png" data-background-size="contain" -->
+</script></section></div>
+    </div>
+    <footer>
+      <span class="left">DrupalCon Seattle</span>
+      <span class="right">@JDDoesDev</span>
+    </footer>
+
+    <script src="./lib/js/head.min.js"></script>
+    <script src="./js/reveal.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+      // Optional libraries used to extend on reveal.js
+      var deps = [
+        { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+        { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        { src: './plugin/zoom-js/zoom.js', async: true },
+        { src: './plugin/notes/notes.js', async: true },
+        { src: './plugin/math/math.js', async: true }
+      ];
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        dependencies: deps
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal.getQueryHash() || {};
+
+      var options = extend(defaultOptions, {}, queryOptions);
+    </script>
+
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>
