@@ -324,5 +324,34 @@ iframe footer {
 }
 
 .reveal p {
+  font-size: 1.5em;
+}
+
+.replace {
+  position: relative;
+}
+
+.replace p {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 0;
+  right: 0;
+}
+
+.small-p p {
   font-size: 25px;
 }
+
+.green {
+  background-color: #888f79;
+}
+
+.tan {
+  background-color: #675b53;
+}
+
+.shaded .slide-background-content {
+  opacity: .5;
+}
+
