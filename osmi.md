@@ -98,6 +98,14 @@ Note:
 fragment - Something that I often need to tell myself, and still have a hard time convincing myself of
 
 <!--s-->
+
+# WHAT IS MENTAL ILLNESS?
+
+Note:
+- Mental illness refers to a wide range of mental health conditions — disorders that affect your mood, thinking and behavior. - Mayo Clinic
+- DSM 5 -- latest version
+
+<!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
 
 ## Just what mental illnesses are you dealing with, you ask?
@@ -359,16 +367,18 @@ Note:
 
 <!--s-->
 
-# I'M NOT ALONE / WE'RE NOT ALONE
+# WE'RE NOT ALONE
 
 Note:
 - Since getting diagnosed and erasing stigma from myself I've realized I'm not alone
+- Nobody is the only one going through this
+    - May have different variables, but the interface is the same
 - I realized that I was afraid because of the way people viewed me
 - I don't feel that way anymore because of organizations like OSMI
 
 <!--s-->
 
-## How has treatment affected me?
+# How has treatment affected me?
 
 Note:
 - I'm not ashamed of who I am
@@ -382,66 +392,81 @@ Note:
     - I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing normal things
 
 <!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
+<!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
+# Now I work with OSMI
 
+Note:
+- Open Sourcing Mental Illness
+- Focused on erasing the stigma around mental illness, specifically in the tech community
+- Founded by Ed Finkler
+- Run by some amazing people
 
 <!--s-->
 
-# WHAT IS MENTAL ILLNESS?
-
-Note:
-- Now I've been going on for a while about how mental illness has affected me, but what is mental illness?
-- Mental illness refers to a _wide range_ of _mental health_ conditions — disorders that affect _your mood, thinking and behavior_. Examples of mental illness include _depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors_. - Mayo Clinic
+### Also, I can tolerate this thing a little more
+<div class="mirror-wrap">
+  <img class="fragment mirror" data-src="./img/mirror.png" border="none">
+</div>
 
 <!--s-->
 
-## WHY TECH SPECIFICALLY?
+# WHY TECH SPECIFICALLY?
 
 Note:
-Although it was suspected that there was a higher incidence of mental illness in the tech community, there was no specific tech community research done.  Sites like devpressed.com (now OSMI forums) and word of mouth were all there were to go on
+- Suspected for a long time
+- Creatives appeared to be more prone to depression and anxiety
+- Sites like devpressed.com (now OSMI forums) and word of mouth were all there were to go on
+- Intelligent and creative people tend to think over situations more than others.
+- Many people can "let go" of events or not look for cause/event connection
+- Creative thinkers tend to re-play events over and over again to better understand them.
+- Replaying can lead to feeling depressed or hopeless
 
-Studies have shown an increased incidence of mental illness, specifically anxiety and depression, in people with above average IQs.  Suggests intelligent people with "hyper brains" are more reactive to environmental stimulus and that “may predispose them to certain psychological disorders as well as physiological conditions involving elevated sensory and altered immune and inflammatory responses".
+<!--s-->
 
-## IMPOSTER SYNDROME
+# IMPOSTER SYNDROME
 - The feeling that you don't deserve to be doing what you're doing
-- Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED slack.
+- Give example of how you deal with it/are dealing with it.  Mention that it's common with people on FED discord
 - inability to take compliments
 
 <!--s-->
 
-
 ## More unexpected audience participation!
-Note:  Let's change it up a bit and ask some more questions
+Note:
+- I've been going on for a while now
+- Let's change it up a bit and ask some more questions
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Who here has taken a sick day?
+## Would you tell someone with glasses or contacts to try looking harder?
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Who has been afraid to call off for injuries or infections?
+## Would you ask someone in a wheelchair why they decided not to walk?
+
+<!--s-->
+<!-- .slide: data-background-color="#675b53" -->
+
+## Would you tell someone with diabetes or a heart condition to stop taking their medicine and to snap out of it?
 
 Note:
-- Injuries - broken bones, etc.
-- Infections - Flu, cough, cold, etc.
+Pretty silly, right?  Let's switch it up.
+<!--s-->
+<!-- .slide: data-background-color="#675b53" -->
+
+### Would you tell someone with ~~glasses or contacts~~ depression to try ~~looking harder~~ being happy?
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Who has ever told someone with glasses or contacts to try looking harder?
+### Would you ask someone in a ~~wheelchair~~ panic attack if they've considered trying harder to ~~walk~~ not have anxiety?
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Who has ever told someone in a wheelchair that they should just get over it and walk?
-
-<!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-
-## Who has ever told someone with diabetes, high blood pressure, or a heart condition to stop taking their medicine?
+### Would you tell someone with ~~diabetes or a heart condition~~ ADHD to stop taking their medicine and to just try ~~being healthy~~ focusing?
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -479,15 +504,6 @@ Note:
 ### But remember...
 <img class="chart" data-src="./img/neuro.jpg" border="none">
 
-Note:
-- Remember those questions earlier?
-<!--s-->
-## What if people with physical health problems were treated the way people with mental health problems were treated?
-
-<!--s-->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bor9xVnbIz8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 <!--s-->
 
 ## So how do we Erase the Stigma?
@@ -521,41 +537,37 @@ Note:
 
 ## Let's see what the data says!
 
-
 <!--s-->
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
-## Mental Health in Tech 2016 Survey Results
-
-As of 11/16/2016, US Residents, Non-self-employed
+## Mental Health in Tech 2017 Survey Results
 
 [osmihelp.org/research](osmihelp.org/research)
 
-Note: This survey was done by OSMI and had approximately 1500 responses.  The survey was made available to several different communities.  All responses are self-reported.
+Note: This survey was done by OSMI and had approximately 800 responses.  The survey was made available to several different communities.  All responses are self-reported.
 
 <!--s-->
 
 <!-- .slide: class="chartSlide" -->
-Would you bring up a health issue with a potential employer at an interview?
+Would you bring up a _PHYSICAL_ health issue with a potential employer at an interview?
 
-<img class="chart" data-src="./img/interview_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/PhysicalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note: Almost twice as many say "NO"
 <!--s-->
 
 <!-- .slide: class="chartSlide" -->
-Does your employer provide resources to learn more about mental health issues and how to seek help?
+Would you bring up a _MENTAL_ health issue with a potential employer at an interview?
 
-<img class="chart" data-src="./img/resources_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/MentalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
-Note: Only 30% can say with any certainty that they know there are resources, but the highest percentage says no.  Does not include insurance coverage.
-
+Note: Almost twice as many say "NO"
 <!--s-->
 
 <!-- .slide: class="chartSlide" -->
-Do you feel that being identified as a person with a mental health issue would hurt your career?
+Do you feel that being identified as a person with a mental health issue would hurt your career? (2016)
 
-<img class="chart" data-src="./img/identified_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/HurtCareer.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note:  Only 12% say "no".  That speaks volumes to me.
 - This is something I worry about every time I give this talk, but it is kind of freeing knowing that all my cards are on the table
@@ -563,9 +575,9 @@ Note:  Only 12% say "no".  That speaks volumes to me.
 <!--s-->
 
 <!-- .slide: class="chartSlide" id="surveySlides" -->
-Do you think discussing a health issue with your employer would have negative consequences?
+Do you think discussing a health issue with your employer would have negative consequences? (2016)
 
-<img class="chart" data-src="./img/employer_chart.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/Consequnces.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note: Over 5x more think that there would _definitely_ be negative consequences
 
@@ -574,37 +586,45 @@ Note: Over 5x more think that there would _definitely_ be negative consequences
 <!-- .slide: class="chartSlide" -->
 Have you been diagnosed with a mental health condition?
 
-<img class="chart" data-src="./img/diagnosed_chart.png" border="none"> <!-- .element: class="fragment chart" -->
+<img class="chart" data-src="./img/EverDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
 
 Note:
 - This is self reported
 - Average is around 20%
-- 1500 responses
--
+- 800 responses
 <!--s-->
 
-## As of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
+<!-- .slide: class="chartSlide" -->
+Do you _Think_ you have a mental health condition?
+
+<img class="chart" data-src="./img/ThinkDiagnosed.png" border="none"> <!-- .element: class="fragment chart" -->
 
 Note:
-"In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with any mental illness within the past year. This number represented 17.9% of all U.S. adults." - National Institute of Mental Health
-
-- AMI - Any mental illness
+- This is self reported
+- Average is around 20%
+- 800 responses
+- includes people who answered yes to diagnosed
 
 
 <!--s-->
 <!-- .slide: data-background-color="#888f79" -->
 
-## All of these charts lead me to one conclusion
+## What do these mean?
 
 <!--s-->
 <!-- .slide: data-background-color="#360101" -->
 
-# We're afraid to talk about mental illness
+ ## We're afraid to talk about mental illness
+ ## We're not alone <!-- .element: class="fragment chart" -->
 
+ Note:
+ Especially if we're the ones suffering from it
+ FRAGMENT: It also means
 <!--s-->
 <!-- .slide: data-background-color="#360101" -->
 
 ## Why are we afraid?  It's because of the stigma.
+
 <!--s-->
 
 ## We're afraid that being honest will have negative consequences
@@ -621,34 +641,60 @@ Note:  Possible anecdote about recent situation at old job.
 
 ## We're afraid we might get sent to the ~~principal's&nbsp;office~~ HR Department
 
-Note: Mention how it took you a lot to build up the courage to tell your bosses about your illness only to get a call from HR.  From people you deal with every day to someone who might as well be a stranger.
+Note:
+- How many of you talk with HR on a regular basis
+    - This could be a good or bad thing
+<!--s-->
+
+## As of 2015 _17.9%_ of _All_ U.S. Adults had some form of Mental Illness
+
+Note:
+"In 2015, there were an estimated 43.4 million adults aged 18 or older in the United States with any mental illness within the past year. This number represented 17.9% of all U.S. adults." - National Institute of Mental Health
+
+- AMI - Any mental illness
 
 <!--s-->
 
 ## Why should a workplace care?
 
 Note:
-- Ignorance kills productivity
-- Reduced productivity kills the bottom line
-- This goes both ways.
-- Before treatment I would have stretches where I didn't accomplish anything
-- That would lead to anxiety about not getting anything done
-- Job insecurity
-- Management didn't know how to handle
-- HR didn't want to hear
-<!--s-->
-
-## Fight ignorance with information
-
-Note: mention the exit interview and sending a link to OSMI
+- depression alone impacts an estimated 9.5 percent of the American adult population.
+- estimated to cause 200 million lost work days each year
+  -  costing employers up to $44 billion annually
 
 <!--s-->
 
+## But JD, What can we do?
+
+Note:
+Great question, slide!
+Well, how do you eat an elephant?  One bite at a time.
+- If a workplace creates a culture of inclusiveness, an employee may feel more comfortable being open
+    - Do very little for days
+    - Get angry that I couldn't function
+    - Get afraid because I wasn't succeeding
+- May have felt more comfortable saying "I need a day off"
+
+<!--s-->
+
+## Take the OSMI 2019 Survey
+
+## https://osmihelp.org/research
+
+<!--s-->
 ## Get the OSMI handbooks
 
-## http://bit.ly/osmi-books <!-- .element: class="fragment" data-fragment-index="1" -->
+## http://bit.ly/osmi-books
 
 Note:  Not trying to sell anything, but the books are DRM free and extremely useful
+ - Mental Health in Tech: Guidelines for Mental Wellness in the Workplace
+ - Mental Health in Tech: Guidelines for Executives and HR Professionals
+ - Mental Health in Tech: Guidelines for Employees
+<!--s-->
+
+## Seriously, Take the OSMI 2019 Survey
+
+## https://osmihelp.org/research
 
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
@@ -662,7 +708,7 @@ Especially in open source communities
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
 
-## *__50%__* of survey respondents claimed mental illness diagnoses
+## *__43%__* of survey respondents claimed mental illness diagnoses
 
 Note: So what does that mean?
 
@@ -703,23 +749,21 @@ Note: And with a little work, together we can....
 
 #### Some resources available:
 - osmihelp.org
-- Find a therapist: 1-800-THERAPIST
+- Psychologytoday.com
 - National Association on Mental Illness: 1-800-950-NAMI
 - Suicide Lifeline: 1-800-273-8255
+- 911 (or your equivalent)
 
 <!--s-->
 
-## Thank you for listening
+## Thank you for letting me talk with you
 
 <!--s-->
 
 ### Survey at http://bit.ly/jdf-survey
 
-<img class="chart" data-src="./img/qrcode.png" border="none">
-
+### Sponsor this talk at http://bit.ly/gofundjd or http://osmihelp.org/donate
 
 <!--s-->
 
 # Questions?
-
-<!--s-->

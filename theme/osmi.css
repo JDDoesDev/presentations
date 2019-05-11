@@ -395,3 +395,7 @@ iframe footer {
 .reveal p.bold {
   font-weight: bolder;
 }
+
+section.chartSlide p {
+  font-size: 2.5rem;
+}
