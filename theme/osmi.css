@@ -296,7 +296,7 @@ footer {
   background: none;
   box-shadow: none;
   margin:auto;
-  height: 12.5em;
+  height: 8.5em;
 }
 
 footer {
@@ -355,3 +355,43 @@ iframe footer {
   opacity: .5;
 }
 
+.reveal section .mirror-wrap img,
+.reveal section img {
+  display: block;
+  border: none;
+  background: none;
+  box-shadow: none;
+  margin:auto;
+  height: 11.5em;
+}
+
+.reveal section img.brain {
+  height: 100%;
+}
+.reveal section .mirror-wrap {
+  position: relative;
+  width: 75%;
+  height: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+.mirror-text {
+  position: absolute;
+  color: black;
+  top: 30%;
+  left: 25%;
+  width: 50%;
+}
+
+.faded {
+  opacity: .25;
+}
+
+.reveal p.larger {
+  font-size: 2em;
+}
+
+.reveal p.bold {
+  font-weight: bolder;
+}

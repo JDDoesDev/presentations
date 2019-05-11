@@ -5,68 +5,18 @@ verticalSeparator: <!--v-->
 theme: osmi
 ---
 
-<!-- .slide: class="small-p" -->
-## Dealing with mental illness
-### Or: How I learned to hate myself less
+# ERASING THE STIGMA
+## MENTAL ILLNESS IN TECH
 
-J.D. Flynn, Drupal Technical Architect
+J.D. Flynn, Lead CMS Developer at Isobar
 
-@JDDoesDev • Slack(s): Dorf • D.O: Dorficus
+@JDDoesDev • D.O: Dorficus • Slack(s): Dorf
 
-Chicago PHP Meetup • #ChiPHPug • #OSMI
-
-Note:
-- Welcome everyone!
-- Thank you for having me
-
-<!--s-->
-
-# Hello!
+WordCamp Chicago • #WCCHI • #OSMI
 
 Note:
-I always like to start off with a big friendly greeting, so Hello!
+Welcome everyone!  Thank you for being here and taking part!
 
-<!--s-->
-
-## Disclaimers:
-* ### NOT a doctor<!-- .element: class="fragment" -->
-* ### NOT a lawyer<!-- .element: class="fragment" -->
-* ### Possible naughty language<!-- .element: class="fragment" -->
-* ### It's about to get personal<!-- .element: class="fragment" -->
-
-Note:
-I also like to start off by covering my ass
-Disclaimer:
-- I'm not a mental health professional
-- I'm not a legal professional
-- I also tend to swear without thinking about it... sorry
-- Also, I'm going to go into quite a bit of detail
-
-<!--s-->
-
-# Why are we here?
-### Today, that is<!-- .element: class="fragment" -->
-
-Note:
-- Hopefully we aren't going to spark a philosophical debate that results in an existential crisis for someone.
-- I'm here to talk WITH you about something very important to me, and hopefully to you
-- I hope you're here because you want to take part in a conversation, or at least learn something
-- Also here to tell story
-    - Hope it helps someone the way another person's story helped me
-
-<!--s-->
-<!-- .slide: data-background-color="#888f79" -->
-
-# So let's have a conversation!
-## You first <!-- .element: class="fragment" -->
-
-Note:
-- You're going to learn a lot about me
-- I like to have an idea of who I'm talking with
-- How many of you are developers, designers, or anything directly related to making sites or programming?
-- How many of you are project managers, owners, or account managers or similar
-- How many of you are in HR?
-- How many of you are in upper management? Managers, Presidents, CEOs, etc.
 
 <!--s-->
 
@@ -83,152 +33,141 @@ Note:
 
 <!--s-->
 
-## Why do I care?
-<div class="replace">
- <p>_**I'm not weak; I'm sick**_ <!-- .element: class="fragment fade-in-then-out" --></p>
- <p>_**I'm not damaged; I have a disease**_ <!-- .element: class="fragment fade-in-then-out" --></p>
- <p>_**It's not a choice; It's a condition**_ <!-- .element: class="fragment fade-in-then-out" --></p>
-</div>
-Note:
-- I suffered in silence
-  - For a very long time I was in denial.  I was afraid that admitting I had an illness would make it real
-- Perfect health until doctor tells you otherwise
-- I worried that if I told people they'll treat me differently
+# NOT a doctor
 
-fragment - Something that I often need to tell myself, and still have a hard time convincing myself of
+Note:
+- Disclaimer:  I'm not a mental health professional nor am I here to give medical advice
+- I am someone with mental illnesses - plural
+- I've experienced difficulties in the workplace because of my mental illness
+- I was in denial for a very long time
+
 
 <!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
+<!-- .slide: data-background-color="#888f79" -->
 
-## Just what mental illnesses are you dealing with, you ask?
+# WHY TALK ABOUT THIS?
+
+Note:
+There are a reasons I do this talk.
+- If there was one sentence for what I want to accomplish with this session, it's "Start the conversation"
+- Why?  People don't want to talk about mental illness.
+  - Luke anecdote: Used to sweep diseases under the rug
+- Share some resources and statistics
+- Share some experiences, both personal and professional
+- Paramedic for 10 years, EMT and firefighter before that
+- I've seen firsthand what untreated mental illness can do
+
+<!--s-->
+<!-- .slide: data-background-color="#888f79" -->
+
+## Burden of mental disorders is the _largest_ of all disorder categories in North America - WHO 2008
+
+Note:
+According to the World Health Organization (WHO) and the World Economic Forum (WEF), mental illness represents the biggest economic burden of any health issue in the world, costing 2.5 trillion in 2010; this burden is projected to cost $6 trillion by 2030 with two-thirds of these costs attributed to disability and loss of work. And yet shockingly, of the 450 million people worldwide who suffer from mental health conditions, the majority (60 percent) do not receive any form of care, with 90 percent of people in developing countries receiving no form of care.
+
+But above all else...
+
+<!--s-->
+<!-- .slide: data-background-color="#888f79" -->
+
+# **IT NEEDS TO BE TALKED ABOUT**
+
+Note:
+- The conversation needs to be started
+- The stigma needs to be erased and the first step is opening up the conversation
+- And you people are here.  You're taking the right steps.  Even if you don't have mental illness yourself, thank you!
+
+<!--s-->
+
+## WHY SHOULD THIS BE IMPORTANT TO YOU?
+
+Note:
+Approximately 20% of adults in the US experience mental illness in a given year - NAMI.org
+We're going to find out later, that number is higher in the tech community.
+
+<!--s-->
+
+## WHY IS THIS IMPORTANT TO ME?
+### _**I'm not weak; I'm sick**_ <!-- .element: class="fragment" -->
+
+Note:
+- As I mentioned, I have mental illness
+- I suffered in silence
+  - For a very long time I was in denial.  I was afraid that admitting I had an illness would make it real
+  - Also victim of the stigma.  i thought mental illness meant someone was just not right and i didn't want to be not right
+- Perfect health until doctor tells you otherwise
+- I worried that if I told people they'll treat me differently
+- Social distancing: In particular, when people feel that an individual with mental illness is dangerous, that results in fear and increased social distance.  Leads to increased anxiety and isolation in the individual.
+
+fragment - Something that I often need to tell myself
+
+<!--s-->
+<!-- .slide: data-background-color="#675b53" -->
+## ABOUT YOU
+
+### AKA Unexpected audience participation
+
+Note:
+You're going to learn a lot about me, so I'd like to learn a little about you
+- How many of you are developers or here to learn development, themers, or site builders, or anything directly related to the tech
+- How many of you are project managers, owners, or account managers or similar
+- How many of you are in HR?
+  - I'm going to give HR a hard time, but I do understand they have a hard job
+- How many of you are in upper management? Managers, Presidents, CEOs, etc.
+
+<!--s-->
+<!-- .slide: data-background-color="#360101" -->
+
+### TIME TO GET UNCOMFORTABLY PERSONAL
 - Major Depression <!-- .element: class="fragment" -->
 - Anxiety Disorder <!-- .element: class="fragment" -->
 - PTSD <!-- .element: class="fragment" -->
-- ADHD <!-- .element: class="fragment" -->
-- TBD? <!-- .element: class="fragment" -->
 
 Note:
-- Well, person I imagined just for this slide... I have:
-- I'm one diagnosis away from Mental Illness Bingo
-- I say TBD because there is such a high level of comorbidity, or co-existing conditions that I'm bound to collect another square soon
-- Let's define these for clarity
+- Clinical _depression_ is marked by a _depressed mood most of the day_, sometimes particularly in the morning, and a _loss of interest_ in normal activities and relationships -- symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
+- Anxiety: A mental health disorder characterized by feelings of _worry, anxiety, or fear_ that are strong enough to _interfere with_ one's _daily activities_ - Mayo Clinic
+- PTSD: A disorder characterized by _failure to recover_ after experiencing or witnessing _a terrifying event_ - Mayo Clinic
+- Consider mentioning some ambulance things, firefighter things, and generalize childhood.  Give the "RAM v HDD" metaphor
+
+What Changed?
+
 <!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
-# Major Depression
-
-Note:
-- Clinical Depression: feelings of low self-worth or guilt and a reduced ability to enjoy life.
-    - symptoms that are present _every day_ for at _least 2 weeks_ - WebMD
-<!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
-# Anxiety Disorder
-<img class="fragment brain" data-src="./img/amygdala.png" border="none">
+<!-- .slide: data-background-color="#675b53" -->
+## I accepted something was wrong
 
 Note:
-- Anxiety: characterized by feelings of worry or fear that are strong enough to interfere with daily activities - Mayo Clinic
-    - Amygdala - lizard brain - fight || flight, feed || breed
-<!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
-# Post Traumatic Stress Disorder
-
-Note:
-- PTSD: failure to recover after experiencing or witnessing a terrifying event - Mayo Clinic
-    - Give the "RAM v HDD" metaphor
-<!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
-# Attention Deficit Hyperactivity Disorder
-
-Note:
-- ADHD: varying degrees of hyperactivity, impulsivity, and/or inattention that lead to difficulty in academic, emotional, and social functioning.
-    - When I was a kid, this was often looked at as being a bit odd or just needing to burn off some energy
-<!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
-## I've only been getting treatment for a short time
-(Relatively Speaking)
-
-Note:
-- Why do I mention this?  Well, remember when I said it's about to get personal?
+- The first thing was the hardest. I saw other people living happy lives and not going through the same things I was.
+- People didn't get as angry as I did as easily as I did.
+- People weren't affected by everyday things like I was and I had an epiphany that maybe everything else wasn't the issue. Maybe it was me?
+  - if everywhere you go smells like dog crap, maybe you should look at your own shoes
+- For a lot of people (including myself) this is the hardest part
+- So then...
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## My normal was not normal
+# I GOT TREATMENT
 
 Note:
-- For as long as I can remember, I felt this way
-- Nature v Nurture debate
-    - My childhood was rough
-    - Witnessed physical and verbal abuse
-    - I was emotionally abused
-        - This can take many forms, and I went through most of them
-    - I was left alone a lot
-    - I had a hard time making connections
-    - Few friends
-    - Overweight, ugly, bad hygiene
-    - Bullied... a lot
-    - Didn't know how to handle emotions so I cried a lot or lashed out a lot.
-- I thought it was all my fault.  I was defective.  I was unlikable.  I scared people away.
-- I never had a sense of safety at home so I became afraid of everything
-- I had one enemy in particular.  Ready to meet them?
+- I take medication
+  - Better living through chemistry
+- I see a therapist
+- I find outlets. Mention community band, becoming active in the community through teaching and in the drupal community
+- I start the conversation
 
-<!--s-->
-<!-- .slide: data-background-color="#008e7f" -->
-
-### Introducing: My nemesis
-<div class="mirror-wrap">
-  <img class="fragment mirror" data-src="./img/mirror.png" border="none">
-  <p class="fragment mirror-text fade-in-then-out">You're worthless</p>
-  <p class="fragment mirror-text fade-in-then-out">You're ugly</p>
-  <p class="fragment mirror-text fade-in-then-out">Nobody likes you</p>
-  <p class="fragment mirror-text fade-in-then-out">I hate you</p>
-</div>
-
-<!--s-->
-<!-- .slide: data-background-color="#675b53" data-autoslide="1500"-->
-
-## Every. Single. Day.
-
-<div class="mirror-wrap faded">
-  <img class="fragment mirror" data-src="./img/mirror.png" border="none">
-  <p class="fragment mirror-text fade-in-then-out">You're worthless</p>
-  <p class="fragment mirror-text fade-in-then-out">You're ugly</p>
-  <p class="fragment mirror-text fade-in-then-out">Nobody likes you</p>
-  <p class="fragment mirror-text fade-in-then-out">I hate you</p>
-  <p class="fragment mirror-text fade-in-then-out">You're WORTHLESS</p>
-  <p class="fragment mirror-text fade-in-then-out">You're UGLY</p>
-  <p class="fragment mirror-text fade-in-then-out">NOBODY likes you</p>
-  <p class="fragment mirror-text fade-in-then-out">I HATE you</p>
-  <p class="fragment mirror-text fade-in-then-out">YOU'RE WORTHLESS</p>
-  <p class="fragment mirror-text fade-in-then-out">YOU'RE UGLY</p>
-  <p class="fragment mirror-text fade-in-then-out">NOBODY LIKES YOU</p>
-  <p class="fragment mirror-text larger bold">I HATE YOU</p>
-  <p class="fragment mirror-text" data-autoslide="0"></p>
-</div>
-
-Note:
-- I hated what I saw
-- I couldn't understand how anyone could like me
-- But it wasn't the mirror saying it, it was me
+Mention not being shy about talking about it.
+People don't need to know the details of your PTSD, but that you're not afraid to mention it in social situations.
+If other people are uncomfortable about it, that's their problem.  Mention something about talking openly at events.
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## This was the norm for most of my life
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
 
 Note:
-- Sometimes I would try to fake confidence
-    - It didn't work
-- Sometimes I would act like things didn't bother me
-    - They did
-- Sometimes I would get angry
-    - Okay, I was angry all the time
+- In a word, difficult.
 - Paranoid about everything
-- Afraid of everything
+- Afraid to see a therapist because I thought only crazy people saw therapists (I know... i was ignorant).
 - Deep, deep valleys
 - Felt useless
 - Unable to function
@@ -238,133 +177,50 @@ Note:
 - spent a lot of time trying to figure out what was wrong with me
 
 <!--s-->
-
-## I wasn't allowed to have mental illness
-
-Note:
-- I was a paramedic and a firefighter
-    - We don't get sick, we help the sick
-    - We're above having mental illness
-    - I can name way too many people I worked with who died of suicide
-
-<!--s-->
-
-## Then something happened
-<!--s-->
-
-## Then some things happened
-
-Note:
-- I wish I could say it was a single moment, but it wasn't
-- It was a series of events
-    - College car story
-    - Full blown panic attack, not the first, but one that I finally questioned
-
-<!--s-->
-
-## Career Change
-
-Note:
-- I got into development and I started hanging out in online developer communities
-- Developer community is more inclusive and understanding than my previous life
-
-<!--s-->
-
-## Health Scare
-
-Note:
-- I found a lump where there shouldn't be a lump and I got scared
-- Started re-evaluating a lot of things
-
-<!--s-->
-
-## I accepted I needed help
-
-Note:
-- The first thing was the hardest. I saw other people living happy lives and not going through the same things I was.
-- People didn't get as angry as I did as easily as I did.
-- People weren't affected by everyday things like I was and I had an epiphany that maybe everything else wasn't the issue. Maybe it was me?
-    - if everywhere you go smells like dog crap, maybe you should look at your own shoes
-- For a lot of people (including myself) this is the hardest part
-- All the signs were there, but I couldn't see them
-
-<!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Fear...
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Constantly afraid
 
-Note:
-- Constantly afraid
+Note:  Also mention:
 - crippling fear of everyday things
 - Social situations were paralyzing
 - canceled plans a lot
-- Paranoid about everything
+- and that led me to feeling...
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Led to Anger...
+
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Alone
+
+Note:
+- i was alone because i canceled plans and made myself alone
+- Feel alone in crowded spaces
+  - self imposed isolation
+- Always feel like people are looking at me for any flaws
+- Example:  On the train i hope nobody sits next to me, but i wonder what's wrong with me when nobody sits next to me
+
+<!--s-->
+<!-- .slide: data-background-color="#675b53" -->
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Angry
 
 Note:
 - I was not a happy person and anything could set me off
-- Think of that lizard brain
-    - Fight or flight, feed or breed
-    - If I can't eat it or make babies with it, I'm going to run away or fight
+- Mix of high stress job (ambulance) and untreated anxiety and depression were not a good combination
+  - and, like many people in public service, I was too proud to admit something was wrong
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
-## Led to Hate...
+## WHAT WAS LIFE LIKE BEFORE I SOUGHT TREATMENT?
+### Misunderstood
 
 Note:
-- This was usually a misunderstanding.
-    - Okay, I did get angry and hateful sometimes
-    - I once threw a couch in rage... not proudest moment, looking back
-
-<!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-
-## Led to suffering
-
-Note:
-- I finally realized that I had been suffering and that there was something I could do about it
-
-<!--s-->
-<!-- .slide: data-background="./img/yoda.jpg" data-background-size="contain" style="margin-top: -10rem;" -->
-## Sound familiar?
-
-Note: A wise muppet once said...
-<!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-
-# Finally, I GOT TREATMENT!
-
-Note:
-- I take medication
-    - Better living through chemistry
-- I see a therapist
-- I find outlets
-    - active in the community through teaching and in the drupal community
-- I start the conversation
-
-<!--s-->
-<!-- .slide: data-background-color="#675b53" -->
-
-# But It wasn't easy
-
-Note:
-- There was a frustrating period between collecting my first diagnoses and getting medicated
-- During this time I attended a talk by Ed Finkler for OSMI
-- This helped me realize something very important
-
-<!--s-->
-
-# I'M NOT ALONE / WE'RE NOT ALONE
-
-Note:
-- Since getting diagnosed and erasing stigma from myself I've realized I'm not alone
-- I realized that I was afraid because of the way people viewed me
-- I don't feel that way anymore because of organizations like OSMI
+- People often thought I was angry when I was terrified or just trying not to screw up
+  - wedding example - "you look like you might kill everyone in this room"
 
 <!--s-->
 
@@ -372,19 +228,25 @@ Note:
 
 Note:
 - I'm not ashamed of who I am
-    - Before, I wanted to hide in shame because of who I am and my conditions.  I've since realized that it's just part of me.  not too proud to admit i need help anymore
+  - Before, I wanted to hide in shame because of who I am and my conditions.  I've since realized that it's just part of me.  not too proud to admit i need help anymore
 - The valleys aren't as deep
-  - Not to say they aren't around anymore or that I don't have deep valleys, but they are much less frequent than before and more manageable.
+  - Not to say they aren't around anymore or that I don't have deep valleys, but they are much less frequent than before.
 - My anxiety has gone down, but still rears its ugly head occasionally
 - Since getting on medication and seeing a therapist,
-    - I've become more comfortable in social situations,
-    - still introverted, so after this i'm going to need to hide for a little while
-    - I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing normal things
+  - I've become more comfortable in social situations,
+  - still introverted,
+  - I don't have nearly as many anxiety attacks or times when I am unreasonably afraid of doing normal things
+- Also, i realize...
 
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
 
+# I'M NOT ALONE / WE'RE NOT ALONE
 
+Note:
+- Since getting diagnosed and erasing stigma from myself I've realized I'm not alone
+- I realized that I was afraid because of the way people viewed me
+- I don't feel that way anymore because of organizations like OSMI
 
 <!--s-->
 
