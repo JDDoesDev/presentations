@@ -296,7 +296,7 @@ footer {
   background: none;
   box-shadow: none;
   margin:auto;
-  height: 12.5em;
+  height: 8.5em;
 }
 
 footer {
@@ -324,5 +324,87 @@ iframe footer {
 }
 
 .reveal p {
+  font-size: 1.5em;
+}
+
+.replace {
+  position: relative;
+}
+
+.replace p {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 0;
+  right: 0;
+}
+
+.small-p p {
   font-size: 25px;
+}
+
+.green {
+  background-color: #888f79;
+}
+
+.tan {
+  background-color: #675b53;
+}
+
+.shaded .slide-background-content {
+  opacity: .5;
+}
+
+.reveal section .mirror-wrap img,
+.reveal section img {
+  display: block;
+  border: none;
+  background: none;
+  box-shadow: none;
+  margin:auto;
+  height: 11.5em;
+}
+
+.reveal section img.brain {
+  height: 100%;
+}
+.reveal section .mirror-wrap {
+  position: relative;
+  width: 75%;
+  height: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+.mirror-text {
+  position: absolute;
+  color: black;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+}
+
+.reveal p.mirror-text--smaller {
+  position: absolute;
+  color: black;
+  top: 30%;
+  left: 25%;
+  width: 50%;
+  font-size: 2rem;
+}
+
+.faded {
+  opacity: .25;
+}
+
+.reveal p.larger {
+  font-size: 2em;
+}
+
+.reveal p.bold {
+  font-weight: bolder;
+}
+
+section.chartSlide p {
+  font-size: 2.5rem;
 }

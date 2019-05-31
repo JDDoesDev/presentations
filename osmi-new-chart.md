@@ -9,11 +9,11 @@ theme: osmi
 ## Dealing with mental illness
 ### Or: How I learned to dislike myself less
 
-J.D. Flynn, Technical Architect
+J.D. Flynn, Drupal Technical Architect
 
 @JDDoesDev • Slack(s): Dorf
 
-@FlyoverCamp • @OSMIHelp
+FriendsIRL • #OSMI
 
 Note:
 - Welcome everyone!
@@ -106,19 +106,6 @@ Note:
 - Going to talk a lot about mental illness, otherwise this would be a very short presentation
 - Mental illness refers to a wide range of mental health conditions — disorders that affect your mood, thinking and behavior.
 - DSM 5 -- latest version
-
-<!--s-->
-
-# WHAT IS THIS STIGMA YOU SPEAK OF?
-
-Note:
-- For centuries people with mental illnesses were treated as "less than"
-- Stereotypes that people with mental illness are dangerous
-- The disease first vs person first
-    - a schizophrenic compared to a person with schizophrenia
-    - the mentally ill compared to someone with mental illness
-- Self-stigma - feeling that your disease defines you and that you're a burden
-- Courtesy stigma - family members and loved ones feel shame and guilt for "contributing" to the illness
 
 <!--s-->
 <!-- .slide: data-background-color="#008e7f" -->
@@ -380,8 +367,9 @@ Note:
 
 Note:
 - There was a frustrating period between collecting my first diagnoses and getting medicated
-- During this time I attended a talk by Ed Finkler
+- During this time I attended a talk by Ed Finkler for OSMI
 - This helped me realize something very important
+- Mental illness had that stigma around it and that terrified me
 
 <!--s-->
 
@@ -595,7 +583,11 @@ Note: This survey was done by OSMI and had approximately 800 responses.  The sur
 <!-- .slide: class="chartSlide" -->
 Would you bring up a _PHYSICAL_ health issue with a potential employer at an interview?
 
-<img class="chart" data-src="./img/PhysicalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<div class="graph-cont-1">
+  <div class="bar bar2">Yes 23%</div>
+  <div class="bar bar3">No 37%</div>
+  <div class="bar bar1">Maybe 40%</div>
+</div><!-- .element: class="fragment" -->
 
 Note: Almost twice as many say "NO"
 <!--s-->
@@ -603,7 +595,11 @@ Note: Almost twice as many say "NO"
 <!-- .slide: class="chartSlide" -->
 Would you bring up a _MENTAL_ health issue with a potential employer at an interview?
 
-<img class="chart" data-src="./img/MentalInterview.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<div class="graph-cont-2">
+  <div class="bar bar4">Yes 5%</div>
+  <div class="bar bar5">No 69%</div>
+  <div class="bar bar6">Maybe 26%</div>
+</div><!-- .element: class="fragment" -->
 
 Note: Almost twice as many say "NO"
 <!--s-->
@@ -611,7 +607,13 @@ Note: Almost twice as many say "NO"
 <!-- .slide: class="chartSlide" -->
 Do you feel that being identified as a person with a mental health issue would hurt your career? (2016)
 
-<img class="chart" data-src="./img/HurtCareer.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<div class="graph-cont-2">
+  <div class="bar bar-narrow bar7">No, it hasn't 2%</div>
+  <div class="bar bar-narrow bar8">No, I don't think it would 10%</div>
+  <div class="bar bar-narrow bar9">Maybe 41%</div>
+  <div class="bar bar-narrow bar10">Yes I think it would 39%</div>
+  <div class="bar bar-narrow bar11">Yes, it has 7%</div>
+</div><!-- .element: class="fragment" -->Z
 
 Note:  Only 12% say "no".  That speaks volumes to me.
 - This is something I worry about every time I give this talk, but it is kind of freeing knowing that all my cards are on the table
@@ -793,6 +795,7 @@ Note: And with a little work, together we can....
 #### Some resources available:
 - osmihelp.org
 - Psychologytoday.com
+- National Association on Mental Illness: 1-800-950-NAMI
 - Suicide Lifeline: 1-800-273-8255
 - 911 (or your equivalent)
 
@@ -802,9 +805,9 @@ Note: And with a little work, together we can....
 
 <!--s-->
 
-### Survey at <span class="normie">http://bit.ly/jdf-survey</span>
+### Survey at http://bit.ly/jdf-survey
 
-### Sponsor this talk at <span class="normie">http://bit.ly/gofundjd OR http://osmihelp.org/donate</span>
+### Sponsor this talk at http://bit.ly/gofundjd or http://osmihelp.org/donate
 
 <!--s-->
 

@@ -1,0 +1,58 @@
+.reveal {
+  section {
+    .mirror-wrap img {
+      display: block;
+      border: none;
+      background: none;
+      box-shadow: none;
+      margin: auto;
+      height: 11.5em;
+    }
+
+    img {
+      display: block;
+      border: none;
+      background: none;
+      box-shadow: none;
+      margin: auto;
+      height: 11.5em;
+
+      &.brain {
+        height: 100%;
+      }
+    }
+
+    .mirror-wrap {
+      position: relative;
+      width: 75%;
+      height: 100%;
+      text-align: center;
+      margin: auto;
+    }
+
+    .mirror-text {
+      position: absolute;
+      color: black;
+      top: 25%;
+      left: 25%;
+      width: 50%;
+    }
+
+    p.mirror-text--smaller {
+      position: absolute;
+      color: black;
+      top: 30%;
+      left: 25%;
+      width: 50%;
+      font-size: 2rem;
+    }
+
+    .faded {
+      opacity: 0.25;
+    }
+  }
+}
+
+
+
+

@@ -1,0 +1,125 @@
+.reveal {
+  section img.chart {
+    display: block;
+    border: none;
+    background: none;
+    box-shadow: none;
+    margin: auto;
+    height: 8.5em;
+  }
+
+  .bar {
+    height: 100px;
+    max-width: 800px;
+    margin: 0 auto 10px auto;
+    line-height: 100px;
+    font-size: 16px;
+    color: #2b2b2b;
+    padding: 0 0 0 10px;
+    position: relative;
+
+    &::before {
+      content: '';
+      width: 100%;
+      position: absolute;
+      left: 0;
+      height: 100px;
+      top: 0;
+      z-index: -2;
+      background: #ecf0f1;
+    }
+
+    &::after {
+      content: '';
+      background: #2ecc71;
+      height: 100px;
+      transition: 0.7s;
+      display: block;
+      width: 100%;
+      -webkit-animation: bar-before 1 1.8s;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -1;
+    }
+  }
+
+  .bar-narrow {
+    height: 75px;
+    line-height: 75px;
+
+    &::before,
+    &::after {
+      height: 75px;
+    }
+  }
+
+  .graph-cont-1 {
+    width: calc(100% - 40px);
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .bar1::after {
+    max-width: 40%;
+  }
+
+  .bar2::after {
+    max-width: 23%;
+  }
+
+  .bar3::after {
+    max-width: 37%;
+  }
+
+  .bar4::after {
+    max-width: 5%;
+  }
+
+  .bar5::after {
+    max-width: 69%;
+  }
+
+  .bar6::after {
+    max-width: 26%;
+  }
+
+  .bar7::after {
+    max-width: 2%;
+  }
+
+  .bar8::after {
+    max-width: 10%;
+  }
+
+  .bar9::after {
+    max-width: 41%;
+  }
+
+  .bar10::after {
+    max-width: 39%;
+  }
+
+  .bar11::after {
+    max-width: 7%;
+  }
+
+  h3 .normie {
+    text-transform: unset;
+  }
+}
+
+section.chartSlide p {
+  font-size: 2.5rem;
+}
+
+@keyframes bar-before {
+  0% {
+    width: 0px;
+  }
+
+  100% {
+    width: 100%;
+  }
+}

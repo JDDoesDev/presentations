@@ -379,9 +379,18 @@ iframe footer {
 .mirror-text {
   position: absolute;
   color: black;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+}
+
+.reveal p.mirror-text--smaller {
+  position: absolute;
+  color: black;
   top: 30%;
   left: 25%;
   width: 50%;
+  font-size: 2rem;
 }
 
 .faded {
@@ -398,4 +407,104 @@ iframe footer {
 
 section.chartSlide p {
   font-size: 2.5rem;
+}
+
+.reveal .bar{
+  height: 100px;
+  max-width: 800px;
+  margin: 0 auto 10px auto;
+  line-height: 100px;
+  font-size: 16px;
+  color: #2b2b2b;
+  padding: 0 0 0 10px;
+  position: relative;
+}
+.reveal .bar::before{
+  content: '';
+  width: 100%;
+  position: absolute;
+  left: 0;
+  height: 100px;
+  top: 0;
+  z-index: -2;
+  background: #ecf0f1;
+}
+.reveal .bar::after{
+  content: '';
+  background: #2ecc71;
+  height: 100px;
+  transition: 0.7s;
+  display: block;
+  width: 100%;
+  -webkit-animation: bar-before 1 1.8s;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.reveal .bar-narrow{
+  height: 75px;
+  line-height: 75px;
+}
+.reveal .bar-narrow::before{
+  height: 75px;
+}
+.reveal .bar-narrow::after {
+  height: 75px;
+}
+
+@-webkit-keyframes bar-before{
+  0%{
+    width: 0px;
+  }
+  100%{
+    width: 100%;
+  }
+}
+
+.reveal .graph-cont-1 {
+  width: calc(100% - 40px);
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.reveal .bar1::after{
+  max-width: 40%;
+}
+.reveal .bar2::after{
+  max-width: 23%;
+}
+.reveal .bar3::after{
+  max-width: 37%;
+}
+
+.reveal .bar4::after{
+  max-width: 5%;
+}
+.reveal .bar5::after{
+  max-width: 69%;
+}
+.reveal .bar6::after{
+  max-width: 26%;
+}
+
+.reveal .bar7::after{
+  max-width: 2%;
+}
+.reveal .bar8::after{
+  max-width: 10%;
+}
+.reveal .bar9::after{
+  max-width: 41%;
+}
+.reveal .bar10::after{
+  max-width: 39%;
+}
+.reveal .bar11::after{
+  max-width: 7%;
+}
+
+.reveal h3 .normie {
+  text-transform: unset;
 }

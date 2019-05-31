@@ -204,7 +204,7 @@ Note:
 - Starting to feel like I had depression
     - Brushed off by counselors
     - Didn't feel that parents would care
--
+- At this time, I decided to make a fool of myself
 
 
 <!--s-->
