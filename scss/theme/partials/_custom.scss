@@ -1,9 +1,29 @@
-.reveal {
-  .small-p p {
+.reveal section {
+  &.small-p p {
     font-size: 25px;
   }
 
-  .shaded .slide-background-content {
+  &.shaded .slide-background-content {
     opacity: .5;
+  }
+
+  img {
+    display: block;
+    border: none;
+    background: none;
+    box-shadow: none;
+    margin: auto;
+    height: 11.5em;
+
+    &.brain {
+      height: 100%;
+    }
+
+    &.meme {
+      height: 8.5em;
+    }
+  }
+  .normie {
+    text-transform: unset;
   }
 }

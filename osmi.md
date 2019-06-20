@@ -13,7 +13,7 @@ J.D. Flynn, Technical Architect
 
 @JDDoesDev • Slack(s): Dorf
 
-@FlyoverCamp • @OSMIHelp
+@TCDrupal • @OSMIHelp
 
 Note:
 - Welcome everyone!
@@ -36,6 +36,7 @@ I always like to start off with a big friendly greeting, so Hello!
 
 Note:
 I also like to start off by covering my ass
+
 Disclaimer:
 - I'm not a mental health professional
 - I'm not a legal professional
@@ -71,7 +72,7 @@ Note:
 
 <!--s-->
 
-## who the heck is this guy?
+## Who is this guy?
 ### OH YEAH, I HAVE MENTAL ILLNESSES<!-- .element: class="fragment" -->
 
 Note:
@@ -105,7 +106,8 @@ fragment - Something that I often need to tell myself, and still have a hard tim
 Note:
 - Going to talk a lot about mental illness, otherwise this would be a very short presentation
 - Mental illness refers to a wide range of mental health conditions — disorders that affect your mood, thinking and behavior.
-- DSM 5 -- latest version
+- DSM (Diagnostic and Statistical Manual of Mental Disorders) 5 -- latest version published in 2013
+    - First one in 1952
 
 <!--s-->
 
@@ -114,9 +116,11 @@ Note:
 Note:
 - For centuries people with mental illnesses were treated as "less than"
 - Stereotypes that people with mental illness are dangerous
-- The disease first vs person first
+- People weren't seen as people.  They were their disease
     - a schizophrenic compared to a person with schizophrenia
+    - they're bipolar, not someone with bipolar
     - the mentally ill compared to someone with mental illness
+- Led to people using mental illness as an insult
 - Self-stigma - feeling that your disease defines you and that you're a burden
 - Courtesy stigma - family members and loved ones feel shame and guilt for "contributing" to the illness
 
@@ -265,7 +269,7 @@ Note:
 ## I wasn't allowed to have mental illness
 
 Note:
-- I was a paramedic and a firefighter
+- I was a paramedic in public service
     - We don't get sick, we help the sick
     - We're above having mental illness
     - I can name way too many people I worked with who died of suicide
@@ -508,21 +512,21 @@ Pretty silly, right?  Let's switch it up.
 
 ### Images like this
 
-<img class="chart" data-src="./img/bs-antidepressant.jpg" border="none">
+<img class="meme" data-src="./img/bs-antidepressant.jpg" border="none">
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
 ### This...
 
-<img class="chart" data-src="./img/pills.jpg" border="none">
+<img class="meme" data-src="./img/pills.jpg" border="none">
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
 
 ### And this...
 
-<img class="chart" data-src="./img/matrix.jpg" border="none">
+<img class="meme" data-src="./img/matrix.jpg" border="none">
 
 <!--s-->
 <!-- .slide: data-background-color="#675b53" -->
@@ -541,7 +545,7 @@ They all say the same thing
 <!--s-->
 
 ### But remember...
-<img class="chart" data-src="./img/neuro.jpg" border="none">
+<img class="meme" data-src="./img/neuro.jpg" border="none">
 
 <!--s-->
 
@@ -569,7 +573,7 @@ Note:
     - Not all cuts bleed
     - Try to be respectful of what you say or how you portray diseases.
     - Sad != depressed, organized != OCD
-        - OCD blueberry talk
+        - OCD blueberry talk - Marissa Lyman
 - If you do feel that you have a disease, get treatment!
 
 
@@ -585,6 +589,7 @@ Note:
 <!-- .slide: data-background="./img/osmi_logo.png" data-background-size="contain" -->
 
 ## Mental Health in Tech 2017 Survey Results
+#### With a little help from 2016
 
 [osmihelp.org/research](osmihelp.org/research)
 
@@ -619,9 +624,15 @@ Note:  Only 12% say "no".  That speaks volumes to me.
 <!--s-->
 
 <!-- .slide: class="chartSlide" id="surveySlides" -->
-Do you think discussing a health issue with your employer would have negative consequences? (2016)
+Do you think discussing a PHYSICAL health issue with your employer would have negative consequences? (2016)
 
-<img class="chart" data-src="./img/Consequnces.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+<img class="chart" data-src="./img/PhysicalConsequence.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
+
+<!--s-->
+<!-- .slide: class="chartSlide" -->
+Do you think discussing a MENTAL health issue with your employer would have negative consequences? (2016)
+
+<img class="chart" data-src="./img/MentalConsequences.png" border="none"> <!-- .element: class="fragment chart" data-fragment-index="1" -->
 
 Note: Over 5x more think that there would _definitely_ be negative consequences
 
@@ -728,6 +739,7 @@ Well, how do you eat an elephant?  One bite at a time.
 ## Get the OSMI handbooks
 
 ## http://bit.ly/osmi-books
+<!-- .element: class="normie" -->
 
 Note:  Not trying to sell anything, but the books are DRM free and extremely useful
  - Mental Health in Tech: Guidelines for Mental Wellness in the Workplace
@@ -795,6 +807,7 @@ Note: And with a little work, together we can....
 - Psychologytoday.com
 - Suicide Lifeline: 1-800-273-8255
 - 911 (or your equivalent)
+- mentalhealthfirstaid.org
 
 <!--s-->
 
@@ -802,9 +815,13 @@ Note: And with a little work, together we can....
 
 <!--s-->
 
-### Survey at <span class="normie">http://bit.ly/jdf-survey</span>
+### Survey at
+### http://bit.ly/jdf-survey
+<!-- .element: class="normie" -->
 
-### Sponsor this talk at <span class="normie">http://bit.ly/gofundjd OR http://osmihelp.org/donate</span>
+### Donate to OSMI
+### http://osmihelp.org/donate
+<!-- .element: class="normie" -->
 
 <!--s-->
 
